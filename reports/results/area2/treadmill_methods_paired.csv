@@ -1,0 +1,17 @@
+speed,method,mean_change,better,same,p
+standing (0 m/s),steps+R always,-0.00422447980146828,4 of 15,1,0.12404279309009482
+standing (0 m/s),steps+R gated,0.0,0 of 15,15,
+standing (0 m/s),ASR,-0.0028040830450423012,5 of 15,0,0.27685546875
+standing (0 m/s),ICA (head-IMU),0.0,0 of 15,15,
+slow walk (0.8 m/s),steps+R always,-0.013430555555555538,3 of 15,0,0.0067138671875
+slow walk (0.8 m/s),steps+R gated,-0.00146296296296294,3 of 15,7,0.20757844233562428
+slow walk (0.8 m/s),ASR,-0.010467592592592563,4 of 15,0,0.03533935546875
+slow walk (0.8 m/s),ICA (head-IMU),-0.0001666666666666335,4 of 15,5,0.9593536340401635
+fast walk (1.6 m/s),steps+R always,-0.007902679692404229,7 of 15,0,0.27685546875
+fast walk (1.6 m/s),steps+R gated,-0.003263888888888866,4 of 15,3,0.15793931050013033
+fast walk (1.6 m/s),ASR,-0.010605520244821072,4 of 15,0,0.07823217976421361
+fast walk (1.6 m/s),ICA (head-IMU),-0.000254629629629625,7 of 15,1,1.0
+light jog (2.0 m/s),steps+R always,0.02223279401434845,10 of 12,0,0.02685546875
+light jog (2.0 m/s),steps+R gated,0.002874616870282768,7 of 12,0,0.5185546875
+light jog (2.0 m/s),ASR,-0.02774915855949576,4 of 12,0,0.1513671875
+light jog (2.0 m/s),ICA (head-IMU),-0.0012093561769464984,5 of 12,2,1.0

@@ -1,0 +1,4 @@
+# Only needed for the comparison methods in scripts/area2_treadmill_methods.py (ASR)
+# and the hum cross-check in scripts/fix12_usability_and_hum.py (PREP).
+meegkit
+pyprep
