@@ -1,0 +1,58 @@
+sub,ses,speed,method,auc,p300_d_Pz,cleaned,motion_share_median
+sub-01,ses-02,standing (0 m/s),steps+R recording-gated,0.9750694444444444,0.9509064562147932,False,0.0
+sub-01,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.9413888888888888,0.4136656584404493,False,0.0508938374027943
+sub-01,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.929236111111111,-0.0614869483884694,False,0.0
+sub-01,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.8354861111111112,0.0864694466529765,False,0.1680516093614628
+sub-02,ses-02,standing (0 m/s),steps+R recording-gated,0.9474305555555556,0.3602417389360234,False,0.0
+sub-02,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8316666666666667,-0.0259470027698018,False,0.0009332406853272
+sub-02,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.7111111111111111,0.1621893609899846,False,0.0250259032895434
+sub-02,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.8563194444444444,0.2135086197402746,False,0.051052943679607
+sub-03,ses-02,standing (0 m/s),steps+R recording-gated,0.8459027777777777,0.5321557905650339,False,0.0
+sub-03,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8346527777777777,0.1642258750100179,False,0.0137715244349558
+sub-03,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.84,0.2485431578126549,False,0.0
+sub-03,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.7954166666666667,0.232690543178996,True,0.3406308183304418
+sub-04,ses-02,standing (0 m/s),steps+R recording-gated,0.915625,0.5479917175325315,False,0.0
+sub-04,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8547222222222223,0.6039199938069603,False,0.0
+sub-04,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.8021527777777777,0.3350176468800125,False,0.0390507435189169
+sub-04,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.7198611111111111,0.1203045938243416,False,0.1130892776252387
+sub-05,ses-02,standing (0 m/s),steps+R recording-gated,0.9540972222222222,1.4215346190517353,False,0.0
+sub-05,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.9098611111111112,1.2799902386861213,False,0.0819954886885601
+sub-05,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.9061805555555555,0.5189272702430554,False,0.1457557724798814
+sub-05,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.8763194444444443,0.1848883663706758,False,0.1283113096351036
+sub-06,ses-02,standing (0 m/s),steps+R recording-gated,0.9825694444444444,1.2076614895843518,False,0.0
+sub-06,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.9659722222222222,1.0273325214765192,False,0.0
+sub-06,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.9497916666666668,0.3634173985672879,False,0.0
+sub-06,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.8282638888888888,0.0335171029736401,False,0.2258544412967167
+sub-07,ses-02,standing (0 m/s),steps+R recording-gated,0.9661805555555556,0.8513694397249553,False,0.0
+sub-07,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8934722222222222,0.6324772765116395,False,0.0
+sub-07,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.7995895127118644,0.009698204027981,False,0.0
+sub-07,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.6670833333333331,0.3445504247190875,False,0.1493539372094712
+sub-08,ses-02,standing (0 m/s),steps+R recording-gated,0.9225,0.7791544685452054,False,0.0
+sub-08,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8538194444444445,0.5264205288272862,False,0.012011268733911
+sub-08,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.7424305555555555,0.3582441630761056,False,0.0600858667053925
+sub-08,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.7035416666666667,0.1518510805012331,False,0.0315644407153298
+sub-09,ses-02,standing (0 m/s),steps+R recording-gated,0.9533333333333333,0.5234003288109202,False,0.0
+sub-09,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.908472222222222,0.494210540692167,False,0.0623363328039999
+sub-09,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.8547916666666666,0.5879341301168427,False,0.0845408240126502
+sub-09,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.7789583333333333,-0.0460181615301975,False,0.2222107724239243
+sub-10,ses-02,standing (0 m/s),steps+R recording-gated,0.954375,0.749195452055772,False,0.0
+sub-10,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8737499999999999,0.3806098643298284,False,0.0
+sub-10,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.7638888888888888,0.1987549513825411,False,0.0488817820556959
+sub-10,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.7384594279443035,0.1560710900967894,False,0.0
+sub-16,ses-02,standing (0 m/s),steps+R recording-gated,0.9673611111111112,1.0236081876753973,False,0.0
+sub-16,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.9798611111111112,0.9501951385197552,False,0.0728415614736137
+sub-16,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.9422222222222224,1.0099779239133753,False,0.1514391547552769
+sub-16,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.8054166666666666,0.1303448975080909,False,0.2177727960677892
+sub-17,ses-02,standing (0 m/s),steps+R recording-gated,0.9898119122257052,1.3344476511370844,False,0.0003809063013057
+sub-17,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.9370138888888888,1.0689411502307893,False,0.0420477017718906
+sub-17,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.8260416666666667,0.1545519700805951,False,0.0
+sub-17,ses-05,light jog (2.0 m/s),steps+R recording-gated,0.8279166666666665,0.5757221683098062,False,0.0
+sub-18,ses-02,standing (0 m/s),steps+R recording-gated,0.9233333333333332,0.8459651841357115,False,0.0
+sub-18,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.9168055555555557,0.8827281606119601,False,0.0
+sub-18,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.8412499999999999,0.4104117644648931,False,0.0365324305676552
+sub-19,ses-02,standing (0 m/s),steps+R recording-gated,0.8403072033898306,0.1511168616076531,False,0.0
+sub-19,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8427083333333333,0.4664015449859354,False,0.023468201337311
+sub-19,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.870625,0.4103079784242713,False,0.053819669411717
+sub-20,ses-02,standing (0 m/s),steps+R recording-gated,0.9321527777777778,0.4015774529421978,False,0.0
+sub-20,ses-03,slow walk (0.8 m/s),steps+R recording-gated,0.8425694444444444,0.6127311527679344,False,0.0594766141793832
+sub-20,ses-04,fast walk (1.6 m/s),steps+R recording-gated,0.8775,0.3967203562036078,False,0.0872173285535976

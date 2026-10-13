@@ -1,0 +1,2801 @@
+sub,kind,size_uv,severity,severity_before
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.0,0.0
+sub-01,pop,80,0.09976571871743731,0.0
+sub-01,pop,160,0.5894201735937263,0.0
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.006449817167424392,0.0
+sub-01,pop,80,0.2575637532825867,0.0
+sub-01,pop,160,0.40048072729994816,0.0
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.012312666414207417,0.0
+sub-01,pop,80,0.3176050058561118,0.0
+sub-01,pop,160,0.4118808513373763,0.0
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.0035987621071668263,0.0
+sub-01,pop,80,0.11756229440876274,0.0
+sub-01,pop,160,0.3867990682000584,0.0
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.005680627092270318,0.0
+sub-01,pop,80,0.26562713863829085,0.0
+sub-01,pop,160,0.4030987956830931,0.0
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.0141343822605023,0.0
+sub-01,pop,80,0.1619000425733121,0.0
+sub-01,pop,160,0.3801371206530774,0.0
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.018101681121342732,0.0
+sub-01,pop,80,0.08474971985368909,0.0
+sub-01,pop,160,0.4654508773475666,0.0
+sub-01,pop,0,0.0,0.0
+sub-01,pop,5,0.0,0.0
+sub-01,pop,10,0.0,0.0
+sub-01,pop,20,0.0,0.0
+sub-01,pop,40,0.0,0.0
+sub-01,pop,80,0.10827827617022232,0.0
+sub-01,pop,160,0.35865753218243146,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.0544993631639986,0.0
+sub-01,slow wave (motion-like),20,0.04876703758964508,0.0
+sub-01,slow wave (motion-like),40,0.07523635719290855,0.0
+sub-01,slow wave (motion-like),80,0.09801739530059148,0.0
+sub-01,slow wave (motion-like),160,0.7057491651300201,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.0,0.0
+sub-01,slow wave (motion-like),20,0.06056773300118245,0.0
+sub-01,slow wave (motion-like),40,0.04943390255748266,0.0
+sub-01,slow wave (motion-like),80,0.6499375898171184,0.0
+sub-01,slow wave (motion-like),160,0.786042065924366,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.019758939982001896,0.0
+sub-01,slow wave (motion-like),20,0.23734114509661494,0.0
+sub-01,slow wave (motion-like),40,0.059260908610246986,0.0
+sub-01,slow wave (motion-like),80,0.37505043577289804,0.0
+sub-01,slow wave (motion-like),160,0.7134036753984951,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.05035105262429927,0.0
+sub-01,slow wave (motion-like),20,0.0638292519335777,0.0
+sub-01,slow wave (motion-like),40,0.08248781654154984,0.0
+sub-01,slow wave (motion-like),80,0.22166975260302582,0.0
+sub-01,slow wave (motion-like),160,0.6807105820990886,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.0,0.0
+sub-01,slow wave (motion-like),20,0.0,0.0
+sub-01,slow wave (motion-like),40,0.1608867709500316,0.0
+sub-01,slow wave (motion-like),80,0.449197806094075,0.0
+sub-01,slow wave (motion-like),160,0.6696823555338101,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.022206547690637037,0.0
+sub-01,slow wave (motion-like),20,0.08436934289350731,0.0
+sub-01,slow wave (motion-like),40,0.09010793017753853,0.0
+sub-01,slow wave (motion-like),80,0.08424499260168765,0.0
+sub-01,slow wave (motion-like),160,0.7115221877009635,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.0,0.0
+sub-01,slow wave (motion-like),20,0.0,0.0
+sub-01,slow wave (motion-like),40,0.08828612567018024,0.0
+sub-01,slow wave (motion-like),80,0.15391011115960537,0.0
+sub-01,slow wave (motion-like),160,0.7140735736369123,0.0
+sub-01,slow wave (motion-like),0,0.0,0.0
+sub-01,slow wave (motion-like),5,0.0,0.0
+sub-01,slow wave (motion-like),10,0.0,0.0
+sub-01,slow wave (motion-like),20,0.07027912282316666,0.0
+sub-01,slow wave (motion-like),40,0.07580502995279136,0.0
+sub-01,slow wave (motion-like),80,0.10758671727744583,0.0
+sub-01,slow wave (motion-like),160,0.6595469742803549,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.0,0.0
+sub-01,muscle,20,0.07173641701717146,0.0
+sub-01,muscle,40,0.16316152746272788,0.0
+sub-01,muscle,80,0.7770230080902731,0.0
+sub-01,muscle,160,0.965991432754819,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.0,0.0
+sub-01,muscle,20,0.021390029270831733,0.0
+sub-01,muscle,40,0.4183114751082771,0.0
+sub-01,muscle,80,1.034166892323575,0.0
+sub-01,muscle,160,1.1969956396343122,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.02310103680943202,0.0
+sub-01,muscle,20,0.06467819883946303,0.0
+sub-01,muscle,40,0.4812026904687742,0.0
+sub-01,muscle,80,0.629051283138791,0.0
+sub-01,muscle,160,1.0491539449541156,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.06838129475770192,0.0
+sub-01,muscle,20,0.1761995541918338,0.0
+sub-01,muscle,40,0.6817004310277417,0.0
+sub-01,muscle,80,0.9519849817104873,0.0
+sub-01,muscle,160,1.0733655729747729,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.04204518127007982,0.0
+sub-01,muscle,20,0.017498941626588622,0.0
+sub-01,muscle,40,0.5806334008193911,0.0
+sub-01,muscle,80,1.0250156016414291,0.0
+sub-01,muscle,160,1.0416626964599305,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.028112005199898822,0.0
+sub-01,muscle,20,0.04050023924828377,0.0
+sub-01,muscle,40,0.1903452652006427,0.0
+sub-01,muscle,80,0.6965557493881336,0.0
+sub-01,muscle,160,0.9664324339467898,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.00436724670789656,0.0
+sub-01,muscle,20,0.037788248882269546,0.0
+sub-01,muscle,40,0.3133918183346465,0.0
+sub-01,muscle,80,0.8600655936138908,0.0
+sub-01,muscle,160,1.0807604664743609,0.0
+sub-01,muscle,0,0.0,0.0
+sub-01,muscle,5,0.0,0.0
+sub-01,muscle,10,0.0,0.0
+sub-01,muscle,20,0.04381116939097919,0.0
+sub-01,muscle,40,0.5125673225462459,0.0
+sub-01,muscle,80,0.8153882081080918,0.0
+sub-01,muscle,160,0.9893729706366956,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.0,0.0
+sub-01,drift,10,0.1046541598592454,0.0
+sub-01,drift,20,0.0,0.0
+sub-01,drift,40,0.0565386983183958,0.0
+sub-01,drift,80,0.24206567695895395,0.0
+sub-01,drift,160,0.8853575805520574,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.0,0.0
+sub-01,drift,10,0.0,0.0
+sub-01,drift,20,0.0,0.0
+sub-01,drift,40,0.0,0.0
+sub-01,drift,80,0.9080590122792002,0.0
+sub-01,drift,160,0.9236099397013182,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.04028981523898217,0.0
+sub-01,drift,10,0.061372260128058645,0.0
+sub-01,drift,20,0.0,0.0
+sub-01,drift,40,0.0,0.0
+sub-01,drift,80,0.5156581019340546,0.0
+sub-01,drift,160,0.920880825506356,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.0,0.0
+sub-01,drift,10,0.0066734360435764094,0.0
+sub-01,drift,20,0.0035212572546860542,0.0
+sub-01,drift,40,0.041469528328762446,0.0
+sub-01,drift,80,0.09004594719473803,0.0
+sub-01,drift,160,0.8886047010406463,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.0,0.0
+sub-01,drift,10,0.0,0.0
+sub-01,drift,20,0.0,0.0
+sub-01,drift,40,0.021203466475236302,0.0
+sub-01,drift,80,0.7166481882241119,0.0
+sub-01,drift,160,0.8845721687082537,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.0,0.0
+sub-01,drift,10,0.015331405606484352,0.0
+sub-01,drift,20,0.030175243426999638,0.0
+sub-01,drift,40,0.0,0.0
+sub-01,drift,80,0.03887844582356354,0.0
+sub-01,drift,160,1.0213930096417314,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.0,0.0
+sub-01,drift,10,0.0,0.0
+sub-01,drift,20,0.0,0.0
+sub-01,drift,40,0.07417299965978616,0.0
+sub-01,drift,80,0.3236551076068836,0.0
+sub-01,drift,160,0.881859882706494,0.0
+sub-01,drift,0,0.0,0.0
+sub-01,drift,5,0.0,0.0
+sub-01,drift,10,0.0,0.0
+sub-01,drift,20,0.1458420040627228,0.0
+sub-01,drift,40,0.06702782574320863,0.0
+sub-01,drift,80,0.45733593913576737,0.0
+sub-01,drift,160,0.8877823024826689,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.037582497620179726,0.0
+sub-01,blink,80,0.20134378121495144,0.0
+sub-01,blink,160,0.3723843198365576,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.0,0.0
+sub-01,blink,80,0.20733678491047755,0.0
+sub-01,blink,160,0.3487044292079946,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.17305284389213196,0.0
+sub-01,blink,80,0.1992602870349197,0.0
+sub-01,blink,160,0.23713287173442107,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.18779637799362897,0.0
+sub-01,blink,80,0.2999289797326052,0.0
+sub-01,blink,160,0.2559457724265473,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.0,0.0
+sub-01,blink,80,0.26663391711791656,0.0
+sub-01,blink,160,0.29367312009859486,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.005512603466766641,0.0
+sub-01,blink,80,0.16660612771205563,0.0
+sub-01,blink,160,0.27765656087752094,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.04534165601458016,0.0
+sub-01,blink,80,0.2525534258602788,0.0
+sub-01,blink,160,0.28130138289257867,0.0
+sub-01,blink,0,0.0,0.0
+sub-01,blink,5,0.0,0.0
+sub-01,blink,10,0.0,0.0
+sub-01,blink,20,0.0,0.0
+sub-01,blink,40,0.033969113673706954,0.0
+sub-01,blink,80,0.25835981412251063,0.0
+sub-01,blink,160,0.3116308719242126,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.0,0.0
+sub-02,pop,80,0.03210461128959931,0.0
+sub-02,pop,160,0.4751295421907365,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.0,0.0
+sub-02,pop,80,0.026881709614507834,0.0
+sub-02,pop,160,0.36967275507850983,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.0,0.0
+sub-02,pop,80,0.07552466101970143,0.0
+sub-02,pop,160,0.39888372362831687,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.0,0.0
+sub-02,pop,80,0.0001753315200185095,0.0
+sub-02,pop,160,0.5389419215310848,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.0,0.0
+sub-02,pop,80,0.24469915079448112,0.0
+sub-02,pop,160,0.32068675968670074,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.0,0.0
+sub-02,pop,80,0.03247373066457053,0.0
+sub-02,pop,160,0.33439032423809856,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.011673592110368263,0.0
+sub-02,pop,80,0.022578767982668384,0.0
+sub-02,pop,160,0.3268237764806212,0.0
+sub-02,pop,0,0.0,0.0
+sub-02,pop,5,0.0,0.0
+sub-02,pop,10,0.0,0.0
+sub-02,pop,20,0.0,0.0
+sub-02,pop,40,0.0,0.0
+sub-02,pop,80,0.23610620593404738,0.0
+sub-02,pop,160,0.33084724815410194,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.0,0.0
+sub-02,slow wave (motion-like),40,0.24339440244437127,0.0
+sub-02,slow wave (motion-like),80,0.1662227164990613,0.0
+sub-02,slow wave (motion-like),160,0.6580781560036669,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.0,0.0
+sub-02,slow wave (motion-like),40,0.15216560155271597,0.0
+sub-02,slow wave (motion-like),80,0.19888170714972606,0.0
+sub-02,slow wave (motion-like),160,0.5362891515303669,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.0,0.0
+sub-02,slow wave (motion-like),40,0.030371479125803597,0.0
+sub-02,slow wave (motion-like),80,0.07886868630759673,0.0
+sub-02,slow wave (motion-like),160,0.7338583898310821,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.0,0.0
+sub-02,slow wave (motion-like),40,0.012250442512003806,0.0
+sub-02,slow wave (motion-like),80,0.23550918818565725,0.0
+sub-02,slow wave (motion-like),160,0.6872034667603122,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.0011599993329807926,0.0
+sub-02,slow wave (motion-like),40,0.10894428222006922,0.0
+sub-02,slow wave (motion-like),80,0.41349349391083984,0.0
+sub-02,slow wave (motion-like),160,0.7491599079074283,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.0,0.0
+sub-02,slow wave (motion-like),40,0.25476471267007206,0.0
+sub-02,slow wave (motion-like),80,0.21045318531977517,0.0
+sub-02,slow wave (motion-like),160,0.7507345191770033,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.0,0.0
+sub-02,slow wave (motion-like),40,0.09428217027029924,0.0
+sub-02,slow wave (motion-like),80,0.14572635726871108,0.0
+sub-02,slow wave (motion-like),160,0.6304124675655205,0.0
+sub-02,slow wave (motion-like),0,0.0,0.0
+sub-02,slow wave (motion-like),5,0.0,0.0
+sub-02,slow wave (motion-like),10,0.0,0.0
+sub-02,slow wave (motion-like),20,0.15745371775262904,0.0
+sub-02,slow wave (motion-like),40,0.008880915856372719,0.0
+sub-02,slow wave (motion-like),80,0.4694550691641065,0.0
+sub-02,slow wave (motion-like),160,0.6911094562828061,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,0.0,0.0
+sub-02,muscle,20,0.0,0.0
+sub-02,muscle,40,0.20443105443779122,0.0
+sub-02,muscle,80,0.8319534089801802,0.0
+sub-02,muscle,160,0.9962795976773522,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,0.0,0.0
+sub-02,muscle,20,0.045184669100299946,0.0
+sub-02,muscle,40,0.07636310250871643,0.0
+sub-02,muscle,80,0.6923057092301983,0.0
+sub-02,muscle,160,0.961825122493927,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,0.0,0.0
+sub-02,muscle,20,0.0,0.0
+sub-02,muscle,40,0.062035067639296,0.0
+sub-02,muscle,80,0.9110953117194487,0.0
+sub-02,muscle,160,0.9898283490324237,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,0.0,0.0
+sub-02,muscle,20,0.00901195151011881,0.0
+sub-02,muscle,40,0.27781055451501036,0.0
+sub-02,muscle,80,0.8066645517999634,0.0
+sub-02,muscle,160,0.9890636627192633,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,0.0,0.0
+sub-02,muscle,20,0.0,0.0
+sub-02,muscle,40,0.08458687618088678,0.0
+sub-02,muscle,80,0.7282539602588699,0.0
+sub-02,muscle,160,1.0502742826575093,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,9.486767955917946e-05,0.0
+sub-02,muscle,20,0.0,0.0
+sub-02,muscle,40,0.38442136497735147,0.0
+sub-02,muscle,80,0.7642398366343175,0.0
+sub-02,muscle,160,1.0541455333964802,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,0.0,0.0
+sub-02,muscle,20,0.0,0.0
+sub-02,muscle,40,0.2701761046582699,0.0
+sub-02,muscle,80,0.7563029502140709,0.0
+sub-02,muscle,160,0.9402968767907011,0.0
+sub-02,muscle,0,0.0,0.0
+sub-02,muscle,5,0.0,0.0
+sub-02,muscle,10,0.0,0.0
+sub-02,muscle,20,0.02854949281443816,0.0
+sub-02,muscle,40,0.0,0.0
+sub-02,muscle,80,0.8433441004983563,0.0
+sub-02,muscle,160,1.0053374668883919,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.0,0.0
+sub-02,drift,40,0.009717553590124854,0.0
+sub-02,drift,80,0.10211443793947006,0.0
+sub-02,drift,160,0.9017351858781922,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.0,0.0
+sub-02,drift,40,0.1385639134704703,0.0
+sub-02,drift,80,0.026554369474552912,0.0
+sub-02,drift,160,0.742905279741119,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.0,0.0
+sub-02,drift,40,0.025179592325333792,0.0
+sub-02,drift,80,0.024014776067359262,0.0
+sub-02,drift,160,0.800652458513853,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.0,0.0
+sub-02,drift,40,0.0,0.0
+sub-02,drift,80,0.06099673917570287,0.0
+sub-02,drift,160,0.9274275000942512,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.13170586058732378,0.0
+sub-02,drift,40,0.0,0.0
+sub-02,drift,80,0.809194704210413,0.0
+sub-02,drift,160,1.0771356981646716,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.0,0.0
+sub-02,drift,40,0.0,0.0
+sub-02,drift,80,0.1358418107701147,0.0
+sub-02,drift,160,0.9598427407031611,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.031874587692212915,0.0
+sub-02,drift,40,0.0,0.0
+sub-02,drift,80,0.12073967422108074,0.0
+sub-02,drift,160,0.8521237902459876,0.0
+sub-02,drift,0,0.0,0.0
+sub-02,drift,5,0.0,0.0
+sub-02,drift,10,0.0,0.0
+sub-02,drift,20,0.0,0.0
+sub-02,drift,40,0.03435939352467965,0.0
+sub-02,drift,80,0.707288996266659,0.0
+sub-02,drift,160,0.861232921655543,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.006399632589299266,0.0
+sub-02,blink,40,0.0,0.0
+sub-02,blink,80,0.27697779569516057,0.0
+sub-02,blink,160,0.31590338559878095,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.0,0.0
+sub-02,blink,40,0.0018057302502671598,0.0
+sub-02,blink,80,0.22810155728844972,0.0
+sub-02,blink,160,0.2068548980200035,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.0,0.0
+sub-02,blink,40,0.0,0.0
+sub-02,blink,80,0.2333845698536777,0.0
+sub-02,blink,160,0.30503920524949024,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.0,0.0
+sub-02,blink,40,0.0,0.0
+sub-02,blink,80,0.2747356443741948,0.0
+sub-02,blink,160,0.3107475053012077,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.01322133513985029,0.0
+sub-02,blink,40,0.023848383706223966,0.0
+sub-02,blink,80,0.21153471756772874,0.0
+sub-02,blink,160,0.29572549802439296,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.0,0.0
+sub-02,blink,40,0.016519827899143788,0.0
+sub-02,blink,80,0.2997295614335588,0.0
+sub-02,blink,160,0.3193797823104152,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.0,0.0
+sub-02,blink,40,0.033012823439471914,0.0
+sub-02,blink,80,0.06151072500678754,0.0
+sub-02,blink,160,0.2541477232008485,0.0
+sub-02,blink,0,0.0,0.0
+sub-02,blink,5,0.0,0.0
+sub-02,blink,10,0.0,0.0
+sub-02,blink,20,0.0,0.0
+sub-02,blink,40,0.0,0.0
+sub-02,blink,80,0.0875760329979456,0.0
+sub-02,blink,160,0.3589695835333907,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.012071972052556541,0.0
+sub-03,pop,80,0.017709077870427397,0.0
+sub-03,pop,160,0.3187087823169718,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.03318012911014222,0.0
+sub-03,pop,80,0.0,0.0
+sub-03,pop,160,0.2745956636487207,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.0,0.0
+sub-03,pop,80,0.05473315247236643,0.0
+sub-03,pop,160,0.3528869439118988,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.0,0.0
+sub-03,pop,80,0.06791664131089399,0.0
+sub-03,pop,160,0.34005841928054764,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.0,0.0
+sub-03,pop,80,0.007869319315556586,0.0
+sub-03,pop,160,0.3459117804275989,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.010658238610376758,0.0
+sub-03,pop,80,0.1689554361170406,0.0
+sub-03,pop,160,0.31222430619260333,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.0,0.0
+sub-03,pop,80,0.0738218210885344,0.0
+sub-03,pop,160,0.329826208181308,0.0
+sub-03,pop,0,0.0,0.0
+sub-03,pop,5,0.0,0.0
+sub-03,pop,10,0.0,0.0
+sub-03,pop,20,0.0,0.0
+sub-03,pop,40,0.0,0.0
+sub-03,pop,80,0.0724937772575824,0.0
+sub-03,pop,160,0.3549792408943251,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.0,0.0
+sub-03,slow wave (motion-like),40,0.0,0.0
+sub-03,slow wave (motion-like),80,0.21164822963591615,0.0
+sub-03,slow wave (motion-like),160,0.613734286174898,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.0,0.0
+sub-03,slow wave (motion-like),40,0.13583356902126917,0.0
+sub-03,slow wave (motion-like),80,0.10695583293390801,0.0
+sub-03,slow wave (motion-like),160,0.634102689239658,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.035719224154225536,0.0
+sub-03,slow wave (motion-like),40,0.07274208177596754,0.0
+sub-03,slow wave (motion-like),80,0.28683470157635976,0.0
+sub-03,slow wave (motion-like),160,0.6702223400214516,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.018286620257633505,0.0
+sub-03,slow wave (motion-like),40,0.0962723339062015,0.0
+sub-03,slow wave (motion-like),80,0.08674331335400602,0.0
+sub-03,slow wave (motion-like),160,0.7247907784671445,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.0,0.0
+sub-03,slow wave (motion-like),40,0.02199907504462519,0.0
+sub-03,slow wave (motion-like),80,0.27468291390642685,0.0
+sub-03,slow wave (motion-like),160,0.5147587212483072,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.0,0.0
+sub-03,slow wave (motion-like),40,0.07151502190302642,0.0
+sub-03,slow wave (motion-like),80,0.0493025956053107,0.0
+sub-03,slow wave (motion-like),160,0.6799963009260986,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.05708055891858127,0.0
+sub-03,slow wave (motion-like),40,0.03990748246084243,0.0
+sub-03,slow wave (motion-like),80,0.4104137608851966,0.0
+sub-03,slow wave (motion-like),160,0.7167963016270257,0.0
+sub-03,slow wave (motion-like),0,0.0,0.0
+sub-03,slow wave (motion-like),5,0.0,0.0
+sub-03,slow wave (motion-like),10,0.0,0.0
+sub-03,slow wave (motion-like),20,0.0,0.0
+sub-03,slow wave (motion-like),40,0.03061735326780089,0.0
+sub-03,slow wave (motion-like),80,0.16722811902875132,0.0
+sub-03,slow wave (motion-like),160,0.6950857328034309,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.0,0.0
+sub-03,muscle,20,0.0,0.0
+sub-03,muscle,40,0.09606640431689366,0.0
+sub-03,muscle,80,0.7488021780897869,0.0
+sub-03,muscle,160,0.9287565286005501,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.0,0.0
+sub-03,muscle,20,0.0,0.0
+sub-03,muscle,40,0.28537515985067713,0.0
+sub-03,muscle,80,0.6255068669289992,0.0
+sub-03,muscle,160,1.1353230210889216,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.0,0.0
+sub-03,muscle,20,0.07852322191794736,0.0
+sub-03,muscle,40,0.22805290130264932,0.0
+sub-03,muscle,80,0.7023432678671312,0.0
+sub-03,muscle,160,0.9838883194082436,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.0,0.0
+sub-03,muscle,20,0.07213800681356707,0.0
+sub-03,muscle,40,0.059067327771878356,0.0
+sub-03,muscle,80,0.6190521717484936,0.0
+sub-03,muscle,160,1.0730427405273057,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.0,0.0
+sub-03,muscle,20,0.0074725618278160865,0.0
+sub-03,muscle,40,0.05093639474590755,0.0
+sub-03,muscle,80,0.7197249977250963,0.0
+sub-03,muscle,160,1.0421965271630427,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.012549560186557382,0.0
+sub-03,muscle,20,0.0,0.0
+sub-03,muscle,40,0.02082110137593462,0.0
+sub-03,muscle,80,0.8603999109598429,0.0
+sub-03,muscle,160,1.3492435770767746,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.03280804538092423,0.0
+sub-03,muscle,20,0.06840126095874545,0.0
+sub-03,muscle,40,0.13146775110010672,0.0
+sub-03,muscle,80,0.6386859459736662,0.0
+sub-03,muscle,160,0.9162199146550366,0.0
+sub-03,muscle,0,0.0,0.0
+sub-03,muscle,5,0.0,0.0
+sub-03,muscle,10,0.0,0.0
+sub-03,muscle,20,0.03608985694206692,0.0
+sub-03,muscle,40,0.105780602555785,0.0
+sub-03,muscle,80,0.6926061284585778,0.0
+sub-03,muscle,160,1.0867297737555794,0.0
+sub-03,drift,0,0.0,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.0,0.0
+sub-03,drift,80,0.13995563006110703,0.0
+sub-03,drift,160,0.8029455667135066,0.0
+sub-03,drift,0,0.0,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.011247555062107813,0.0
+sub-03,drift,80,0.012105352856525494,0.0
+sub-03,drift,160,0.6504413906139286,0.0
+sub-03,drift,0,0.0,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.0,0.0
+sub-03,drift,80,0.11396977485864794,0.0
+sub-03,drift,160,0.9926173996846176,0.0
+sub-03,drift,0,0.0,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.08741124790958754,0.0
+sub-03,drift,80,0.11183454136651175,0.0
+sub-03,drift,160,0.8656479877622375,0.0
+sub-03,drift,0,0.0,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.0,0.0
+sub-03,drift,80,0.09885910227979412,0.0
+sub-03,drift,160,0.8655156557692367,0.0
+sub-03,drift,0,0.0,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.0,0.0
+sub-03,drift,80,0.051685334784923764,0.0
+sub-03,drift,160,0.7574568393652983,0.0
+sub-03,drift,0,0.0,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.030335469609859212,0.0
+sub-03,drift,80,0.19517103950232637,0.0
+sub-03,drift,160,0.9164821189967206,0.0
+sub-03,drift,0,0.06810082055203552,0.0
+sub-03,drift,5,0.0,0.0
+sub-03,drift,10,0.0,0.0
+sub-03,drift,20,0.0,0.0
+sub-03,drift,40,0.0,0.0
+sub-03,drift,80,0.025528562436944676,0.0
+sub-03,drift,160,1.0533216563474346,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.0,0.0
+sub-03,blink,80,0.19428077473197988,0.0
+sub-03,blink,160,0.20926962843797936,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.0,0.0
+sub-03,blink,80,0.0,0.0
+sub-03,blink,160,0.22701277166808437,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.03135924203252562,0.0
+sub-03,blink,80,0.220657483788996,0.0
+sub-03,blink,160,0.28796113733025747,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.0,0.0
+sub-03,blink,80,0.16811389838186233,0.0
+sub-03,blink,160,0.229296181487288,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.0,0.0
+sub-03,blink,80,0.22141478171215093,0.0
+sub-03,blink,160,0.2831783054341255,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.0,0.0
+sub-03,blink,80,0.16811389838186233,0.0
+sub-03,blink,160,0.2789673395652056,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.0,0.0
+sub-03,blink,80,0.23165112327085963,0.0
+sub-03,blink,160,0.12402024206263676,0.0
+sub-03,blink,0,0.0,0.0
+sub-03,blink,5,0.0,0.0
+sub-03,blink,10,0.0,0.0
+sub-03,blink,20,0.0,0.0
+sub-03,blink,40,0.0,0.0
+sub-03,blink,80,0.024723820457056758,0.0
+sub-03,blink,160,0.2749310190889397,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.0,0.0
+sub-04,pop,80,0.0,0.0
+sub-04,pop,160,0.17034097140934196,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.012756579671441644,0.0
+sub-04,pop,80,0.17220441153271923,0.0
+sub-04,pop,160,0.3431974074906948,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.0,0.0
+sub-04,pop,80,0.03712432079227673,0.0
+sub-04,pop,160,0.37220761920609113,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.0,0.0
+sub-04,pop,80,0.05441969197137964,0.0
+sub-04,pop,160,0.3228121276822536,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.0,0.0
+sub-04,pop,80,0.06306174144760603,0.0
+sub-04,pop,160,0.18841705070853268,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.0,0.0
+sub-04,pop,80,0.29116843332461306,0.0
+sub-04,pop,160,0.2512162032353182,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.0,0.0
+sub-04,pop,80,0.06736593174723131,0.0
+sub-04,pop,160,0.18143561669693606,0.0
+sub-04,pop,0,0.0,0.0
+sub-04,pop,5,0.0,0.0
+sub-04,pop,10,0.0,0.0
+sub-04,pop,20,0.0,0.0
+sub-04,pop,40,0.0,0.0
+sub-04,pop,80,0.07195146940341679,0.0
+sub-04,pop,160,0.21521942140112366,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0,0.0
+sub-04,slow wave (motion-like),20,0.14926838347615035,0.0
+sub-04,slow wave (motion-like),40,0.07575324332517805,0.0
+sub-04,slow wave (motion-like),80,0.18921689418692372,0.0
+sub-04,slow wave (motion-like),160,0.17946689424498138,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0011054793375196042,0.0
+sub-04,slow wave (motion-like),20,0.0,0.0
+sub-04,slow wave (motion-like),40,0.20461032056724854,0.0
+sub-04,slow wave (motion-like),80,0.1550208039332823,0.0
+sub-04,slow wave (motion-like),160,0.7678686015114734,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0,0.0
+sub-04,slow wave (motion-like),20,0.02554749717594034,0.0
+sub-04,slow wave (motion-like),40,0.011837146270310215,0.0
+sub-04,slow wave (motion-like),80,0.27468158658946473,0.0
+sub-04,slow wave (motion-like),160,0.6830421177513093,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0,0.0
+sub-04,slow wave (motion-like),20,0.030101902983257822,0.0
+sub-04,slow wave (motion-like),40,0.13916375557229557,0.0
+sub-04,slow wave (motion-like),80,0.11254446635093836,0.0
+sub-04,slow wave (motion-like),160,0.6756178134447792,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0,0.0
+sub-04,slow wave (motion-like),20,0.11427515447422387,0.0
+sub-04,slow wave (motion-like),40,0.19776278971526656,0.0
+sub-04,slow wave (motion-like),80,0.1307976954560689,0.0
+sub-04,slow wave (motion-like),160,0.14669314012250587,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0,0.0
+sub-04,slow wave (motion-like),20,0.03466048366509227,0.0
+sub-04,slow wave (motion-like),40,0.15307448479641325,0.0
+sub-04,slow wave (motion-like),80,0.5334501723920423,0.0
+sub-04,slow wave (motion-like),160,0.15674005695980142,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0,0.0
+sub-04,slow wave (motion-like),20,0.03852634764181009,0.0
+sub-04,slow wave (motion-like),40,0.09097092749131316,0.0
+sub-04,slow wave (motion-like),80,0.23872332562297416,0.0
+sub-04,slow wave (motion-like),160,0.15947243817071252,0.0
+sub-04,slow wave (motion-like),0,0.0,0.0
+sub-04,slow wave (motion-like),5,0.0,0.0
+sub-04,slow wave (motion-like),10,0.0,0.0
+sub-04,slow wave (motion-like),20,0.012334298688506707,0.0
+sub-04,slow wave (motion-like),40,0.16302199449581417,0.0
+sub-04,slow wave (motion-like),80,0.22151201937578494,0.0
+sub-04,slow wave (motion-like),160,0.2058670333730043,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.0,0.0
+sub-04,muscle,20,0.06541626224616696,0.0
+sub-04,muscle,40,0.0,0.0
+sub-04,muscle,80,0.31812158035719584,0.0
+sub-04,muscle,160,0.971176447353989,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.0,0.0
+sub-04,muscle,20,0.0,0.0
+sub-04,muscle,40,0.2022185080852696,0.0
+sub-04,muscle,80,0.70783324660397,0.0
+sub-04,muscle,160,0.9466490156304529,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.05159616461271207,0.0
+sub-04,muscle,20,0.0025399495804334592,0.0
+sub-04,muscle,40,0.09747491450376233,0.0
+sub-04,muscle,80,0.2734714045753341,0.0
+sub-04,muscle,160,0.892187304096736,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.00014199416847995928,0.0
+sub-04,muscle,20,0.0,0.0
+sub-04,muscle,40,0.11059336083877058,0.0
+sub-04,muscle,80,0.7450062488999372,0.0
+sub-04,muscle,160,0.9180350372776935,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.0,0.0
+sub-04,muscle,20,0.16972895873743848,0.0
+sub-04,muscle,40,0.10973415422759854,0.0
+sub-04,muscle,80,0.4738146347116177,0.0
+sub-04,muscle,160,0.88068204864572,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.0,0.0
+sub-04,muscle,20,0.0,0.0
+sub-04,muscle,40,0.1731769710130783,0.0
+sub-04,muscle,80,0.6716266190838173,0.0
+sub-04,muscle,160,0.8715451898398558,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.009735820054964595,0.0
+sub-04,muscle,20,0.025565529300715435,0.0
+sub-04,muscle,40,0.13236314359960616,0.0
+sub-04,muscle,80,0.6069546422238924,0.0
+sub-04,muscle,160,0.7283154222275432,0.0
+sub-04,muscle,0,0.0,0.0
+sub-04,muscle,5,0.0,0.0
+sub-04,muscle,10,0.0,0.0
+sub-04,muscle,20,0.013847116042163437,0.0
+sub-04,muscle,40,0.23210340371321195,0.0
+sub-04,muscle,80,0.6942256111155952,0.0
+sub-04,muscle,160,0.8074009948235193,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.0,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.0,0.0
+sub-04,drift,80,0.10219326683845674,0.0
+sub-04,drift,160,0.2119406388441735,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.0,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.1612292076352928,0.0
+sub-04,drift,80,0.1371154651069008,0.0
+sub-04,drift,160,0.8459364015141624,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.0,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.0,0.0
+sub-04,drift,80,0.0629638370801013,0.0
+sub-04,drift,160,0.8416863192766151,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.0,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.03141601502235898,0.0
+sub-04,drift,80,0.07034853673201243,0.0
+sub-04,drift,160,0.8132355167325125,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.0,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.06361409790956091,0.0
+sub-04,drift,80,0.11097366867981247,0.0
+sub-04,drift,160,0.12531105850844157,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.013952857582180721,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.05670338358362116,0.0
+sub-04,drift,80,0.6551012585665894,0.0
+sub-04,drift,160,0.1421269811343077,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.0,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.09316750552323874,0.0
+sub-04,drift,80,0.1944404722280488,0.0
+sub-04,drift,160,0.17385596576947496,0.0
+sub-04,drift,0,0.0,0.0
+sub-04,drift,5,0.0,0.0
+sub-04,drift,10,0.0,0.0
+sub-04,drift,20,0.0,0.0
+sub-04,drift,40,0.1706660836912008,0.0
+sub-04,drift,80,0.12991364123241642,0.0
+sub-04,drift,160,0.10736978433476708,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.0,0.0
+sub-04,blink,40,0.03530205698363339,0.0
+sub-04,blink,80,0.25914019765503193,0.0
+sub-04,blink,160,0.3035514622870035,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.0,0.0
+sub-04,blink,40,0.060878177285528294,0.0
+sub-04,blink,80,0.2917991349753873,0.0
+sub-04,blink,160,0.2886187072022613,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.0,0.0
+sub-04,blink,40,0.0,0.0
+sub-04,blink,80,0.24683596560247542,0.0
+sub-04,blink,160,0.2597007024636843,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.0,0.0
+sub-04,blink,40,0.0,0.0
+sub-04,blink,80,0.2448101956593903,0.0
+sub-04,blink,160,0.3559857178661157,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.0,0.0
+sub-04,blink,40,0.005454691459219167,0.0
+sub-04,blink,80,0.23438675803043454,0.0
+sub-04,blink,160,0.24604079708334003,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.0,0.0
+sub-04,blink,40,0.04507930623080253,0.0
+sub-04,blink,80,0.2458448936303789,0.0
+sub-04,blink,160,0.2728259703196841,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.012643623889185768,0.0
+sub-04,blink,40,0.011976718102924977,0.0
+sub-04,blink,80,0.251793285076878,0.0
+sub-04,blink,160,0.3341136359120041,0.0
+sub-04,blink,0,0.0,0.0
+sub-04,blink,5,0.0,0.0
+sub-04,blink,10,0.0,0.0
+sub-04,blink,20,0.0,0.0
+sub-04,blink,40,0.08741008191267903,0.0
+sub-04,blink,80,0.31507736273666126,0.0
+sub-04,blink,160,0.26425837796913454,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.020514061056675515,0.0
+sub-05,pop,80,0.15485040727062377,0.0
+sub-05,pop,160,0.6830541678712259,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.0109459735124049,0.0
+sub-05,pop,80,0.09228617984624535,0.0
+sub-05,pop,160,0.36509139453729494,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.031063107453930094,0.0
+sub-05,pop,80,0.2633508221599065,0.0
+sub-05,pop,160,0.2632726341086843,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.02073524046760411,0.0
+sub-05,pop,80,0.20942129623037076,0.0
+sub-05,pop,160,0.5444810697268069,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.038779699615084075,0.0
+sub-05,pop,80,0.09449606412849876,0.0
+sub-05,pop,160,0.2836355273177706,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.0,0.0
+sub-05,pop,80,0.1532837827727602,0.0
+sub-05,pop,160,0.5011858861281783,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.031164439314811106,0.0
+sub-05,pop,80,0.11764059827326838,0.0
+sub-05,pop,160,0.36741928694931936,0.0
+sub-05,pop,0,0.0,0.0
+sub-05,pop,5,0.0,0.0
+sub-05,pop,10,0.0,0.0
+sub-05,pop,20,0.0,0.0
+sub-05,pop,40,0.04151082446670695,0.0
+sub-05,pop,80,0.11929892029853699,0.0
+sub-05,pop,160,0.5739333586736587,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.017700611368915698,0.0
+sub-05,slow wave (motion-like),20,0.0513974843738569,0.0
+sub-05,slow wave (motion-like),40,0.25289846323172194,0.0
+sub-05,slow wave (motion-like),80,0.40327174722914455,0.0
+sub-05,slow wave (motion-like),160,0.8682946454672048,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.0062648988831366164,0.0
+sub-05,slow wave (motion-like),20,0.08714735083419176,0.0
+sub-05,slow wave (motion-like),40,0.16085051748940707,0.0
+sub-05,slow wave (motion-like),80,0.7111308880472812,0.0
+sub-05,slow wave (motion-like),160,0.6326769396235948,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.0,0.0
+sub-05,slow wave (motion-like),20,0.11976798243718549,0.0
+sub-05,slow wave (motion-like),40,0.06542274843587441,0.0
+sub-05,slow wave (motion-like),80,0.43209342309729,0.0
+sub-05,slow wave (motion-like),160,0.7588612846327264,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.059963443335827114,0.0
+sub-05,slow wave (motion-like),20,0.020847912705710066,0.0
+sub-05,slow wave (motion-like),40,0.13986332231598797,0.0
+sub-05,slow wave (motion-like),80,0.5978361876749526,0.0
+sub-05,slow wave (motion-like),160,0.9242625475703986,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.005375460886787667,0.0
+sub-05,slow wave (motion-like),20,0.047386483206828686,0.0
+sub-05,slow wave (motion-like),40,0.14947761398076884,0.0
+sub-05,slow wave (motion-like),80,0.6034452872930324,0.0
+sub-05,slow wave (motion-like),160,0.8253162855303273,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.011445691267780268,0.0
+sub-05,slow wave (motion-like),20,0.17353796729927254,0.0
+sub-05,slow wave (motion-like),40,0.426794784604274,0.0
+sub-05,slow wave (motion-like),80,0.686930625653708,0.0
+sub-05,slow wave (motion-like),160,1.0100006252672722,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.0,0.0
+sub-05,slow wave (motion-like),20,0.0736292902075815,0.0
+sub-05,slow wave (motion-like),40,0.1460866456512851,0.0
+sub-05,slow wave (motion-like),80,0.2765485543199265,0.0
+sub-05,slow wave (motion-like),160,0.8880895371446884,0.0
+sub-05,slow wave (motion-like),0,0.0,0.0
+sub-05,slow wave (motion-like),5,0.0,0.0
+sub-05,slow wave (motion-like),10,0.0,0.0
+sub-05,slow wave (motion-like),20,0.009406848313002142,0.0
+sub-05,slow wave (motion-like),40,0.19394432112368662,0.0
+sub-05,slow wave (motion-like),80,0.47258670837087763,0.0
+sub-05,slow wave (motion-like),160,0.7156707344934853,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.0,0.0
+sub-05,muscle,10,0.0,0.0
+sub-05,muscle,20,0.22364552636942525,0.0
+sub-05,muscle,40,0.4480847351692521,0.0
+sub-05,muscle,80,1.0044459714735272,0.0
+sub-05,muscle,160,0.928272897235516,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.0,0.0
+sub-05,muscle,10,0.0,0.0
+sub-05,muscle,20,0.14367579236203795,0.0
+sub-05,muscle,40,0.5116862264485779,0.0
+sub-05,muscle,80,1.1076203919153895,0.0
+sub-05,muscle,160,0.8329898221975298,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.0,0.0
+sub-05,muscle,10,0.04399182319520456,0.0
+sub-05,muscle,20,0.03132769644794305,0.0
+sub-05,muscle,40,0.4965833223282887,0.0
+sub-05,muscle,80,0.7841472234044479,0.0
+sub-05,muscle,160,0.846281606335298,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.011729286051477302,0.0
+sub-05,muscle,10,0.0,0.0
+sub-05,muscle,20,0.08354907282446135,0.0
+sub-05,muscle,40,0.5173273311370963,0.0
+sub-05,muscle,80,0.8985311118755008,0.0
+sub-05,muscle,160,1.20590050855307,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.0,0.0
+sub-05,muscle,10,0.0021299334780814725,0.0
+sub-05,muscle,20,0.10416941472773293,0.0
+sub-05,muscle,40,0.46386846888308625,0.0
+sub-05,muscle,80,0.8972738986247346,0.0
+sub-05,muscle,160,1.1163640049796426,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.06314868919174216,0.0
+sub-05,muscle,10,0.007808547406930373,0.0
+sub-05,muscle,20,0.10024045013154577,0.0
+sub-05,muscle,40,0.7584786918121046,0.0
+sub-05,muscle,80,0.8946325515105428,0.0
+sub-05,muscle,160,1.0684647136891081,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.0,0.0
+sub-05,muscle,10,0.09902102579427789,0.0
+sub-05,muscle,20,0.10714660800860334,0.0
+sub-05,muscle,40,0.7094906687807913,0.0
+sub-05,muscle,80,0.867799413969894,0.0
+sub-05,muscle,160,1.0706200428095738,0.0
+sub-05,muscle,0,0.0,0.0
+sub-05,muscle,5,0.0487627505894405,0.0
+sub-05,muscle,10,0.0,0.0
+sub-05,muscle,20,0.05150195469563571,0.0
+sub-05,muscle,40,0.43272906693280044,0.0
+sub-05,muscle,80,0.8369293549214163,0.0
+sub-05,muscle,160,0.9303395849379229,0.0
+sub-05,drift,0,0.0,0.0
+sub-05,drift,5,0.0,0.0
+sub-05,drift,10,0.0,0.0
+sub-05,drift,20,0.0,0.0
+sub-05,drift,40,0.025078437692487528,0.0
+sub-05,drift,80,0.027500636971644944,0.0
+sub-05,drift,160,0.8727812056707995,0.0
+sub-05,drift,0,0.0,0.0
+sub-05,drift,5,0.178707150040921,0.0
+sub-05,drift,10,0.0,0.0
+sub-05,drift,20,0.09282162261546903,0.0
+sub-05,drift,40,0.02483218655940006,0.0
+sub-05,drift,80,0.18018526055772194,0.0
+sub-05,drift,160,0.7662086812139989,0.0
+sub-05,drift,0,0.0,0.0
+sub-05,drift,5,0.0,0.0
+sub-05,drift,10,0.06572524388853719,0.0
+sub-05,drift,20,0.05853051608320797,0.0
+sub-05,drift,40,0.0,0.0
+sub-05,drift,80,0.564319577039648,0.0
+sub-05,drift,160,0.7325606258027652,0.0
+sub-05,drift,0,0.008077524658839047,0.0
+sub-05,drift,5,0.0,0.0
+sub-05,drift,10,0.0,0.0
+sub-05,drift,20,0.0,0.0
+sub-05,drift,40,0.10955448642864847,0.0
+sub-05,drift,80,0.09065636528206202,0.0
+sub-05,drift,160,0.8923859752270532,0.0
+sub-05,drift,0,0.0,0.0
+sub-05,drift,5,0.0,0.0
+sub-05,drift,10,0.0,0.0
+sub-05,drift,20,0.0,0.0
+sub-05,drift,40,0.10999738373575034,0.0
+sub-05,drift,80,0.7408993140568878,0.0
+sub-05,drift,160,0.7308016831429779,0.0
+sub-05,drift,0,0.0,0.0
+sub-05,drift,5,0.0,0.0
+sub-05,drift,10,0.0,0.0
+sub-05,drift,20,0.027749966181491482,0.0
+sub-05,drift,40,0.09454194715664262,0.0
+sub-05,drift,80,0.1645388978524705,0.0
+sub-05,drift,160,0.9147440976643428,0.0
+sub-05,drift,0,0.0,0.0
+sub-05,drift,5,0.0,0.0
+sub-05,drift,10,0.07211249832829662,0.0
+sub-05,drift,20,0.0,0.0
+sub-05,drift,40,0.0,0.0
+sub-05,drift,80,0.3683794445198959,0.0
+sub-05,drift,160,0.8738285047757831,0.0
+sub-05,drift,0,0.0,0.0
+sub-05,drift,5,0.07572240713355498,0.0
+sub-05,drift,10,0.0,0.0
+sub-05,drift,20,0.0,0.0
+sub-05,drift,40,0.013310759550465552,0.0
+sub-05,drift,80,0.0,0.0
+sub-05,drift,160,0.864378046055297,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.0,0.0
+sub-05,blink,40,0.05224599335178181,0.0
+sub-05,blink,80,0.026546223497226826,0.0
+sub-05,blink,160,0.36511568779755166,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.03829363866796202,0.0
+sub-05,blink,40,0.0785165858956975,0.0
+sub-05,blink,80,0.30588994653295715,0.0
+sub-05,blink,160,0.16362339311486934,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.0,0.0
+sub-05,blink,40,0.0,0.0
+sub-05,blink,80,0.23188348938807485,0.0
+sub-05,blink,160,0.16362339311486934,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.0,0.0
+sub-05,blink,40,0.07005598297854436,0.0
+sub-05,blink,80,0.21581096114894496,0.0
+sub-05,blink,160,0.3107851598921861,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.04175452647149446,0.0
+sub-05,blink,40,0.09225346346074129,0.0
+sub-05,blink,80,0.3169209998146627,0.0
+sub-05,blink,160,0.2613074210728888,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.0,0.0
+sub-05,blink,40,0.05103328298687389,0.0
+sub-05,blink,80,0.29001777547393776,0.0
+sub-05,blink,160,0.3607272325313377,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.0,0.0
+sub-05,blink,40,0.0481074767470314,0.0
+sub-05,blink,80,0.3092914917666677,0.0
+sub-05,blink,160,0.3274858927492555,0.0
+sub-05,blink,0,0.0,0.0
+sub-05,blink,5,0.0,0.0
+sub-05,blink,10,0.0,0.0
+sub-05,blink,20,0.0,0.0
+sub-05,blink,40,0.013771047851746722,0.0
+sub-05,blink,80,0.0,0.0
+sub-05,blink,160,0.3246908090541935,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.0030220604358980373,0.0
+sub-06,pop,80,0.1985046403839876,0.0
+sub-06,pop,160,0.2824270950201884,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.015222464687196346,0.0
+sub-06,pop,80,0.10394540572188024,0.0
+sub-06,pop,160,0.3574923547605386,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.018325339799673497,0.0
+sub-06,pop,80,0.0806311435703083,0.0
+sub-06,pop,160,0.3816966187762591,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.0,0.0
+sub-06,pop,80,0.08953827150643401,0.0
+sub-06,pop,160,0.4300558344938695,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.0,0.0
+sub-06,pop,80,0.07542343963806473,0.0
+sub-06,pop,160,0.3545280602078597,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.0,0.0
+sub-06,pop,80,0.06018801649714627,0.0
+sub-06,pop,160,0.3010063893486893,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.0,0.0
+sub-06,pop,80,0.0713552206337754,0.0
+sub-06,pop,160,0.47652806758891025,0.0
+sub-06,pop,0,0.0,0.0
+sub-06,pop,5,0.0,0.0
+sub-06,pop,10,0.0,0.0
+sub-06,pop,20,0.0,0.0
+sub-06,pop,40,0.010654732314871471,0.0
+sub-06,pop,80,0.19877501054266092,0.0
+sub-06,pop,160,0.2797222543004711,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.0,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.0,0.0
+sub-06,slow wave (motion-like),40,0.010078752000921008,0.0
+sub-06,slow wave (motion-like),80,0.520240662410592,0.0
+sub-06,slow wave (motion-like),160,0.519655165675198,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.01631258351178569,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.0,0.0
+sub-06,slow wave (motion-like),40,0.03231467306428528,0.0
+sub-06,slow wave (motion-like),80,0.36656413800842547,0.0
+sub-06,slow wave (motion-like),160,0.7260731746885375,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.0,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.0,0.0
+sub-06,slow wave (motion-like),40,0.0019454611455671945,0.0
+sub-06,slow wave (motion-like),80,0.30574875868311785,0.0
+sub-06,slow wave (motion-like),160,0.6243184053006162,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.0,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.0,0.0
+sub-06,slow wave (motion-like),40,0.22268473793132276,0.0
+sub-06,slow wave (motion-like),80,0.2940761371345962,0.0
+sub-06,slow wave (motion-like),160,0.8120804758643075,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.0,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.015435840600946282,0.0
+sub-06,slow wave (motion-like),40,0.08809886598179985,0.0
+sub-06,slow wave (motion-like),80,0.4309695297313705,0.0
+sub-06,slow wave (motion-like),160,0.7097718464424136,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.0,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.0,0.0
+sub-06,slow wave (motion-like),40,0.10894977958619874,0.0
+sub-06,slow wave (motion-like),80,0.5237543480821482,0.0
+sub-06,slow wave (motion-like),160,0.8828309697476895,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.0,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.09066759189621525,0.0
+sub-06,slow wave (motion-like),40,0.080107588282787,0.0
+sub-06,slow wave (motion-like),80,0.32458831450857734,0.0
+sub-06,slow wave (motion-like),160,0.6350984822233283,0.0
+sub-06,slow wave (motion-like),0,0.0,0.0
+sub-06,slow wave (motion-like),5,0.0,0.0
+sub-06,slow wave (motion-like),10,0.0,0.0
+sub-06,slow wave (motion-like),20,0.0,0.0
+sub-06,slow wave (motion-like),40,0.1660591071627945,0.0
+sub-06,slow wave (motion-like),80,0.4711777323756093,0.0
+sub-06,slow wave (motion-like),160,0.6606063919770147,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.0,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.0,0.0
+sub-06,muscle,40,0.11812788965114336,0.0
+sub-06,muscle,80,0.874845293636359,0.0
+sub-06,muscle,160,0.9902594366958668,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.01910075781290859,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.04856595090029146,0.0
+sub-06,muscle,40,0.19668076535125129,0.0
+sub-06,muscle,80,0.7207114206119293,0.0
+sub-06,muscle,160,1.1911357265519436,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.0,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.005953957878889396,0.0
+sub-06,muscle,40,0.11719330252447542,0.0
+sub-06,muscle,80,0.7429793060063384,0.0
+sub-06,muscle,160,1.057607384048594,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.0,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.0,0.0
+sub-06,muscle,40,0.3408569797968233,0.0
+sub-06,muscle,80,0.7426797504720534,0.0
+sub-06,muscle,160,1.0759544318156313,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.0,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.006742252677642735,0.0
+sub-06,muscle,40,0.5012639571608222,0.0
+sub-06,muscle,80,0.6993279219313838,0.0
+sub-06,muscle,160,1.076781996040292,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.0,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.0,0.0
+sub-06,muscle,40,0.41820158628948306,0.0
+sub-06,muscle,80,0.8633407249384739,0.0
+sub-06,muscle,160,1.0543599550532095,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.0,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.016520378076255705,0.0
+sub-06,muscle,40,0.368248580298347,0.0
+sub-06,muscle,80,0.7691303960980254,0.0
+sub-06,muscle,160,1.1072541545970795,0.0
+sub-06,muscle,0,0.0,0.0
+sub-06,muscle,5,0.0,0.0
+sub-06,muscle,10,0.0,0.0
+sub-06,muscle,20,0.0,0.0
+sub-06,muscle,40,0.3452683854421692,0.0
+sub-06,muscle,80,0.7615874881394926,0.0
+sub-06,muscle,160,1.0156613987888845,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.0,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.04287589356031514,0.0
+sub-06,drift,80,0.6343160522780382,0.0
+sub-06,drift,160,0.7302839697652205,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.01813722764248236,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.11633054630869723,0.0
+sub-06,drift,80,0.6715793435317903,0.0
+sub-06,drift,160,0.8360512810620105,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.0,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.0,0.0
+sub-06,drift,80,0.5644633883687754,0.0
+sub-06,drift,160,0.7958045392457141,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.0,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.0,0.0
+sub-06,drift,80,0.5510306812761644,0.0
+sub-06,drift,160,0.9739197516234557,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.0,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.1351872287907929,0.0
+sub-06,drift,80,0.6600813909961915,0.0
+sub-06,drift,160,0.8431097702631346,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.0,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.0,0.0
+sub-06,drift,80,0.6025713670312375,0.0
+sub-06,drift,160,0.9306019879092935,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.0,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.07082051830183721,0.0
+sub-06,drift,80,0.5680802180808168,0.0
+sub-06,drift,160,0.812195148510267,0.0
+sub-06,drift,0,0.0,0.0
+sub-06,drift,5,0.0,0.0
+sub-06,drift,10,0.0,0.0
+sub-06,drift,20,0.0,0.0
+sub-06,drift,40,0.0,0.0
+sub-06,drift,80,0.5756400525037629,0.0
+sub-06,drift,160,0.8948474144617451,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.0011817042678063851,0.0
+sub-06,blink,80,0.08397806556097018,0.0
+sub-06,blink,160,0.19259787634722034,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.0,0.0
+sub-06,blink,80,0.0,0.0
+sub-06,blink,160,0.29523660852104255,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.0,0.0
+sub-06,blink,80,0.0,0.0
+sub-06,blink,160,0.19127726150613397,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.017862756823292143,0.0
+sub-06,blink,80,0.0,0.0
+sub-06,blink,160,0.2832003334548901,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.0,0.0
+sub-06,blink,80,0.0075555175768688716,0.0
+sub-06,blink,160,0.22602931698491102,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.0,0.0
+sub-06,blink,80,0.027192391116253576,0.0
+sub-06,blink,160,0.25471283204954764,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.0,0.0
+sub-06,blink,80,0.0076574032851214726,0.0
+sub-06,blink,160,0.17970594503734452,0.0
+sub-06,blink,0,0.0,0.0
+sub-06,blink,5,0.0,0.0
+sub-06,blink,10,0.0,0.0
+sub-06,blink,20,0.0,0.0
+sub-06,blink,40,0.0,0.0
+sub-06,blink,80,0.026868820407602276,0.0
+sub-06,blink,160,0.2125770220307815,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.004718156038730214,0.0
+sub-07,pop,80,0.11747738642291047,0.0
+sub-07,pop,160,0.25902826196659123,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.0,0.0
+sub-07,pop,80,0.07984377538056478,0.0
+sub-07,pop,160,0.6087051255581921,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.0,0.0
+sub-07,pop,80,0.1475727096884016,0.0
+sub-07,pop,160,0.38806092244632023,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.06777458203141999,0.0
+sub-07,pop,80,0.13158334814404207,0.0
+sub-07,pop,160,0.5059067067177013,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.0013732118512177825,0.0
+sub-07,pop,80,0.09049226076545921,0.0
+sub-07,pop,160,0.2335791676008167,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.006638766288682047,0.0
+sub-07,pop,80,0.18480853460409868,0.0
+sub-07,pop,160,0.3714932516592465,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.0,0.0
+sub-07,pop,80,0.1046173610155767,0.0
+sub-07,pop,160,0.37081588860674586,0.0
+sub-07,pop,0,0.0,0.0
+sub-07,pop,5,0.0,0.0
+sub-07,pop,10,0.0,0.0
+sub-07,pop,20,0.0,0.0
+sub-07,pop,40,0.0,0.0
+sub-07,pop,80,0.16203631303097032,0.0
+sub-07,pop,160,0.47186258202670406,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.0,0.0
+sub-07,slow wave (motion-like),20,0.13761860474786397,0.0
+sub-07,slow wave (motion-like),40,0.08405236406896639,0.0
+sub-07,slow wave (motion-like),80,0.38950039438094747,0.0
+sub-07,slow wave (motion-like),160,0.6209255892608111,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.0,0.0
+sub-07,slow wave (motion-like),20,0.0,0.0
+sub-07,slow wave (motion-like),40,0.15153294305056456,0.0
+sub-07,slow wave (motion-like),80,0.14720202958962034,0.0
+sub-07,slow wave (motion-like),160,0.6641626800556655,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.0,0.0
+sub-07,slow wave (motion-like),20,0.02963684000225126,0.0
+sub-07,slow wave (motion-like),40,0.1803874560906739,0.0
+sub-07,slow wave (motion-like),80,0.17839604516429405,0.0
+sub-07,slow wave (motion-like),160,0.6518499392245143,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.0,0.0
+sub-07,slow wave (motion-like),20,0.0,0.0
+sub-07,slow wave (motion-like),40,0.05728091092976101,0.0
+sub-07,slow wave (motion-like),80,0.09978580039669652,0.0
+sub-07,slow wave (motion-like),160,0.701989137375591,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.027643186086508155,0.0
+sub-07,slow wave (motion-like),20,0.006033070197021929,0.0
+sub-07,slow wave (motion-like),40,0.1505943387564847,0.0
+sub-07,slow wave (motion-like),80,0.05117788632303587,0.0
+sub-07,slow wave (motion-like),160,0.46136555611666347,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.0,0.0
+sub-07,slow wave (motion-like),20,0.0,0.0
+sub-07,slow wave (motion-like),40,0.01212214287471183,0.0
+sub-07,slow wave (motion-like),80,0.11828771417076647,0.0
+sub-07,slow wave (motion-like),160,0.5167629906540802,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.0,0.0
+sub-07,slow wave (motion-like),20,0.01790021283211734,0.0
+sub-07,slow wave (motion-like),40,0.08741184569820037,0.0
+sub-07,slow wave (motion-like),80,0.041969688135083054,0.0
+sub-07,slow wave (motion-like),160,0.4995141251337391,0.0
+sub-07,slow wave (motion-like),0,0.0,0.0
+sub-07,slow wave (motion-like),5,0.0,0.0
+sub-07,slow wave (motion-like),10,0.0,0.0
+sub-07,slow wave (motion-like),20,0.0,0.0
+sub-07,slow wave (motion-like),40,0.3348924160394158,0.0
+sub-07,slow wave (motion-like),80,0.06678725683548929,0.0
+sub-07,slow wave (motion-like),160,0.43306908421511825,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.0,0.0
+sub-07,muscle,10,0.0,0.0
+sub-07,muscle,20,0.036660139262391214,0.0
+sub-07,muscle,40,0.03982522330070676,0.0
+sub-07,muscle,80,0.7546164486165922,0.0
+sub-07,muscle,160,0.8285753298084196,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.0,0.0
+sub-07,muscle,10,0.03575787340264296,0.0
+sub-07,muscle,20,0.00761799803386841,0.0
+sub-07,muscle,40,0.3416676882882879,0.0
+sub-07,muscle,80,0.595037078339422,0.0
+sub-07,muscle,160,0.8094605547001239,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.0,0.0
+sub-07,muscle,10,0.005969267744769647,0.0
+sub-07,muscle,20,0.11759018150414155,0.0
+sub-07,muscle,40,0.020489981681653363,0.0
+sub-07,muscle,80,0.6620356262921315,0.0
+sub-07,muscle,160,0.9471170526933728,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.0,0.0
+sub-07,muscle,10,0.0,0.0
+sub-07,muscle,20,0.0,0.0
+sub-07,muscle,40,0.2314209851584567,0.0
+sub-07,muscle,80,0.4624469177213236,0.0
+sub-07,muscle,160,0.8777246386676064,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.0,0.0
+sub-07,muscle,10,0.0,0.0
+sub-07,muscle,20,0.012569544200897549,0.0
+sub-07,muscle,40,0.44242711335361046,0.0
+sub-07,muscle,80,0.7198926185684956,0.0
+sub-07,muscle,160,0.9972519476393142,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.0207137490663834,0.0
+sub-07,muscle,10,0.006135082606296769,0.0
+sub-07,muscle,20,0.05304824751900431,0.0
+sub-07,muscle,40,0.2723065304674118,0.0
+sub-07,muscle,80,0.9063295569008335,0.0
+sub-07,muscle,160,0.8860560999776482,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.05084644366809349,0.0
+sub-07,muscle,10,0.0,0.0
+sub-07,muscle,20,0.0070109703631446,0.0
+sub-07,muscle,40,0.27957420653221254,0.0
+sub-07,muscle,80,0.5305924212494485,0.0
+sub-07,muscle,160,0.8468598151206799,0.0
+sub-07,muscle,0,0.0,0.0
+sub-07,muscle,5,0.0,0.0
+sub-07,muscle,10,0.0,0.0
+sub-07,muscle,20,0.0,0.0
+sub-07,muscle,40,0.07804772435678374,0.0
+sub-07,muscle,80,0.6785819624434507,0.0
+sub-07,muscle,160,0.881117914998737,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.0,0.0
+sub-07,drift,40,0.021876364231398653,0.0
+sub-07,drift,80,0.6165768781791974,0.0
+sub-07,drift,160,0.8083020848794452,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.0031038585463914587,0.0
+sub-07,drift,40,0.0,0.0
+sub-07,drift,80,0.11761423949504264,0.0
+sub-07,drift,160,0.8350889735673952,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.02238726724572199,0.0
+sub-07,drift,40,0.0,0.0
+sub-07,drift,80,0.07927233895947626,0.0
+sub-07,drift,160,0.8037339022021384,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.0,0.0
+sub-07,drift,40,0.0,0.0
+sub-07,drift,80,0.015605332539269798,0.0
+sub-07,drift,160,0.8517020765736137,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.0,0.0
+sub-07,drift,40,0.0459425180034439,0.0
+sub-07,drift,80,0.048864188778936384,0.0
+sub-07,drift,160,0.6599301292141185,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.0,0.0
+sub-07,drift,40,0.0,0.0
+sub-07,drift,80,0.06323522213651597,0.0
+sub-07,drift,160,0.7117644189033195,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.0,0.0
+sub-07,drift,40,0.044394964796461635,0.0
+sub-07,drift,80,0.0,0.0
+sub-07,drift,160,0.7086382582778711,0.0
+sub-07,drift,0,0.0,0.0
+sub-07,drift,5,0.0,0.0
+sub-07,drift,10,0.0,0.0
+sub-07,drift,20,0.009163601230682794,0.0
+sub-07,drift,40,0.0,0.0
+sub-07,drift,80,0.026366325474143006,0.0
+sub-07,drift,160,0.6779065383904685,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.06347698798710273,0.0
+sub-07,blink,80,0.24525477218235478,0.0
+sub-07,blink,160,0.2832406346270614,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.0,0.0
+sub-07,blink,80,0.25935775325858984,0.0
+sub-07,blink,160,0.23492866225951084,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.0,0.0
+sub-07,blink,80,0.2336882085362901,0.0
+sub-07,blink,160,0.3117005525716328,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.0,0.0
+sub-07,blink,80,0.1766751567481302,0.0
+sub-07,blink,160,0.3186128374005488,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.04402485597448739,0.0
+sub-07,blink,80,0.1963596514827015,0.0
+sub-07,blink,160,0.22528784651521797,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.00935742723871441,0.0
+sub-07,blink,80,0.2172185014934159,0.0
+sub-07,blink,160,0.22097739864689986,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.053673687380130466,0.0
+sub-07,blink,80,0.18015597866433772,0.0
+sub-07,blink,160,0.19936049451253654,0.0
+sub-07,blink,0,0.0,0.0
+sub-07,blink,5,0.0,0.0
+sub-07,blink,10,0.0,0.0
+sub-07,blink,20,0.0,0.0
+sub-07,blink,40,0.17199611490370517,0.0
+sub-07,blink,80,0.1743551401134076,0.0
+sub-07,blink,160,0.21794723432476984,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.06690434990696302,0.0
+sub-08,pop,160,0.213660076692976,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.008953725805688307,0.0
+sub-08,pop,160,0.0876849923547524,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.0,0.0
+sub-08,pop,160,0.2403410189241133,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.04975787396040881,0.0
+sub-08,pop,160,0.09678395112347905,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.0,0.0
+sub-08,pop,160,0.1705643183420136,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.010946476008833583,0.0
+sub-08,pop,160,0.0685206238456567,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.02138571429786216,0.0
+sub-08,pop,160,0.15770462430611537,0.0
+sub-08,pop,0,0.0,0.0
+sub-08,pop,5,0.0,0.0
+sub-08,pop,10,0.0,0.0
+sub-08,pop,20,0.0,0.0
+sub-08,pop,40,0.0,0.0
+sub-08,pop,80,0.0,0.0
+sub-08,pop,160,0.22671656742623933,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.0,0.0
+sub-08,slow wave (motion-like),20,0.0,0.0
+sub-08,slow wave (motion-like),40,0.02408069298994426,0.0
+sub-08,slow wave (motion-like),80,0.05340857661429651,0.0
+sub-08,slow wave (motion-like),160,0.15397595084076868,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.06231911868670043,0.0
+sub-08,slow wave (motion-like),20,0.0,0.0
+sub-08,slow wave (motion-like),40,0.21515939803892054,0.0
+sub-08,slow wave (motion-like),80,0.09430232358204538,0.0
+sub-08,slow wave (motion-like),160,0.14776750424191326,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.0,0.0
+sub-08,slow wave (motion-like),20,0.0,0.0
+sub-08,slow wave (motion-like),40,0.11542269258022055,0.0
+sub-08,slow wave (motion-like),80,0.13206110476358793,0.0
+sub-08,slow wave (motion-like),160,0.1527657858494764,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.0,0.0
+sub-08,slow wave (motion-like),20,0.0,0.0
+sub-08,slow wave (motion-like),40,0.06294756274070049,0.0
+sub-08,slow wave (motion-like),80,0.06507543443163723,0.0
+sub-08,slow wave (motion-like),160,0.17877246547889342,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.0,0.0
+sub-08,slow wave (motion-like),20,0.0,0.0
+sub-08,slow wave (motion-like),40,0.10933462381480896,0.0
+sub-08,slow wave (motion-like),80,0.15213879654181997,0.0
+sub-08,slow wave (motion-like),160,0.12687116147685643,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.03706188361628353,0.0
+sub-08,slow wave (motion-like),20,0.038410811404326596,0.0
+sub-08,slow wave (motion-like),40,0.08922225795083005,0.0
+sub-08,slow wave (motion-like),80,0.11820118000034655,0.0
+sub-08,slow wave (motion-like),160,0.0,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.0,0.0
+sub-08,slow wave (motion-like),20,0.03967170472188743,0.0
+sub-08,slow wave (motion-like),40,0.09226786206245016,0.0
+sub-08,slow wave (motion-like),80,0.13533618806536707,0.0
+sub-08,slow wave (motion-like),160,0.13928152356665727,0.0
+sub-08,slow wave (motion-like),0,0.0,0.0
+sub-08,slow wave (motion-like),5,0.0,0.0
+sub-08,slow wave (motion-like),10,0.0,0.0
+sub-08,slow wave (motion-like),20,0.020224865314036194,0.0
+sub-08,slow wave (motion-like),40,0.052314452000289,0.0
+sub-08,slow wave (motion-like),80,0.17953310872831002,0.0
+sub-08,slow wave (motion-like),160,0.13167119586663106,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.0,0.0
+sub-08,muscle,10,0.0,0.0
+sub-08,muscle,20,0.00688023358711594,0.0
+sub-08,muscle,40,0.11942089478469896,0.0
+sub-08,muscle,80,0.21350428027774102,0.0
+sub-08,muscle,160,0.4367750603999486,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.0,0.0
+sub-08,muscle,10,0.055541191918692924,0.0
+sub-08,muscle,20,0.0,0.0
+sub-08,muscle,40,0.26543037763536415,0.0
+sub-08,muscle,80,0.068235567651472,0.0
+sub-08,muscle,160,0.5653849112913238,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.0,0.0
+sub-08,muscle,10,0.0,0.0
+sub-08,muscle,20,0.034005827667527036,0.0
+sub-08,muscle,40,0.07486948435711215,0.0
+sub-08,muscle,80,0.1874429831033215,0.0
+sub-08,muscle,160,0.5434848096136229,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.0,0.0
+sub-08,muscle,10,0.05341812564056973,0.0
+sub-08,muscle,20,0.0,0.0
+sub-08,muscle,40,0.2502077997415836,0.0
+sub-08,muscle,80,0.09020141197658825,0.0
+sub-08,muscle,160,0.5237531245676951,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.0,0.0
+sub-08,muscle,10,0.0,0.0
+sub-08,muscle,20,0.08502559240658525,0.0
+sub-08,muscle,40,0.219485823664872,0.0
+sub-08,muscle,80,0.380419920791677,0.0
+sub-08,muscle,160,0.45446923747113077,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.018119020484721048,0.0
+sub-08,muscle,10,0.034312058046889936,0.0
+sub-08,muscle,20,0.003888436035686441,0.0
+sub-08,muscle,40,0.022503708232054536,0.0
+sub-08,muscle,80,0.06490936041641673,0.0
+sub-08,muscle,160,0.444571192091104,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.0,0.0
+sub-08,muscle,10,0.0,0.0
+sub-08,muscle,20,0.009029589517001066,0.0
+sub-08,muscle,40,0.26186822154101647,0.0
+sub-08,muscle,80,0.11486308294834512,0.0
+sub-08,muscle,160,0.5796632453500751,0.0
+sub-08,muscle,0,0.0,0.0
+sub-08,muscle,5,0.0,0.0
+sub-08,muscle,10,0.0,0.0
+sub-08,muscle,20,0.008971980733541296,0.0
+sub-08,muscle,40,0.15196780477263716,0.0
+sub-08,muscle,80,0.1590313967152423,0.0
+sub-08,muscle,160,0.4801921742326476,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.0,0.0
+sub-08,drift,10,0.0,0.0
+sub-08,drift,20,0.015040298257803977,0.0
+sub-08,drift,40,0.023905677676558913,0.0
+sub-08,drift,80,0.0034181543196231397,0.0
+sub-08,drift,160,0.20318161701816304,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.13582264967087423,0.0
+sub-08,drift,10,0.12927281491875625,0.0
+sub-08,drift,20,0.0,0.0
+sub-08,drift,40,0.0023455031367006747,0.0
+sub-08,drift,80,0.0247067307001372,0.0
+sub-08,drift,160,0.08021685969140602,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.0,0.0
+sub-08,drift,10,0.0,0.0
+sub-08,drift,20,0.22624398442683677,0.0
+sub-08,drift,40,0.0,0.0
+sub-08,drift,80,0.02231349870941735,0.0
+sub-08,drift,160,0.09818825569600738,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.0,0.0
+sub-08,drift,10,0.02777351924902861,0.0
+sub-08,drift,20,0.0,0.0
+sub-08,drift,40,0.15220796279921528,0.0
+sub-08,drift,80,0.02969176592782045,0.0
+sub-08,drift,160,0.1047817160154992,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.06527308288294915,0.0
+sub-08,drift,10,0.0,0.0
+sub-08,drift,20,0.0,0.0
+sub-08,drift,40,0.08018927119940004,0.0
+sub-08,drift,80,0.14081376640534488,0.0
+sub-08,drift,160,0.09342293079782368,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.0,0.0
+sub-08,drift,10,0.0,0.0
+sub-08,drift,20,0.0,0.0
+sub-08,drift,40,0.0,0.0
+sub-08,drift,80,0.04621960664840323,0.0
+sub-08,drift,160,0.0,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.0,0.0
+sub-08,drift,10,0.0,0.0
+sub-08,drift,20,0.0,0.0
+sub-08,drift,40,0.0,0.0
+sub-08,drift,80,0.17830148101331747,0.0
+sub-08,drift,160,0.13675750767152708,0.0
+sub-08,drift,0,0.0,0.0
+sub-08,drift,5,0.0,0.0
+sub-08,drift,10,0.0,0.0
+sub-08,drift,20,0.0,0.0
+sub-08,drift,40,0.00043535612631466936,0.0
+sub-08,drift,80,0.08550945516770254,0.0
+sub-08,drift,160,0.13562030067619915,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.0,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.0,0.0
+sub-08,blink,40,0.0,0.0
+sub-08,blink,80,0.1863875092045532,0.0
+sub-08,blink,160,0.2573786307918154,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.006763228937876494,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.0,0.0
+sub-08,blink,40,0.009883706209203444,0.0
+sub-08,blink,80,0.175713735610959,0.0
+sub-08,blink,160,0.22821224436056955,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.0,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.0,0.0
+sub-08,blink,40,0.025125878303537717,0.0
+sub-08,blink,80,0.1977744319585351,0.0
+sub-08,blink,160,0.24030011949202792,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.0,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.0,0.0
+sub-08,blink,40,0.009297775490082741,0.0
+sub-08,blink,80,0.18350318262720697,0.0
+sub-08,blink,160,0.25596670923946774,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.0,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.0,0.0
+sub-08,blink,40,0.0,0.0
+sub-08,blink,80,0.0870924156754767,0.0
+sub-08,blink,160,0.23866005767762707,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.0,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.006058322026757529,0.0
+sub-08,blink,40,0.0,0.0
+sub-08,blink,80,0.18963452568598047,0.0
+sub-08,blink,160,0.17199611490370517,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.0,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.0,0.0
+sub-08,blink,40,0.012630037830060581,0.0
+sub-08,blink,80,0.1981374260481284,0.0
+sub-08,blink,160,0.2416390126035624,0.0
+sub-08,blink,0,0.0,0.0
+sub-08,blink,5,0.0,0.0
+sub-08,blink,10,0.0,0.0
+sub-08,blink,20,0.0,0.0
+sub-08,blink,40,0.0,0.0
+sub-08,blink,80,0.19749837924112779,0.0
+sub-08,blink,160,0.21611441268313797,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.0,0.0
+sub-09,pop,80,0.16761363317817532,0.0
+sub-09,pop,160,0.3608017808964525,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.0,0.0
+sub-09,pop,80,0.09993267202397534,0.0
+sub-09,pop,160,0.41261072455254066,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.0,0.0
+sub-09,pop,80,0.10218874358592445,0.0
+sub-09,pop,160,0.44649318025782797,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.09902102579427789,0.0
+sub-09,pop,80,0.018286107808503604,0.0
+sub-09,pop,160,0.37302091447172764,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.0,0.0
+sub-09,pop,80,0.14011846471596087,0.0
+sub-09,pop,160,0.3458562889232351,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.0,0.0
+sub-09,pop,80,0.17199569082618263,0.0
+sub-09,pop,160,0.34952569727580673,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.0,0.0
+sub-09,pop,80,0.09902102579427789,0.0
+sub-09,pop,160,0.30086599635886163,0.0
+sub-09,pop,0,0.0,0.0
+sub-09,pop,5,0.0,0.0
+sub-09,pop,10,0.0,0.0
+sub-09,pop,20,0.0,0.0
+sub-09,pop,40,0.010672182350812173,0.0
+sub-09,pop,80,0.04377701933615707,0.0
+sub-09,pop,160,0.2745240363259548,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.0,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.0,0.0
+sub-09,slow wave (motion-like),40,0.08149296296168383,0.0
+sub-09,slow wave (motion-like),80,0.5023253097765886,0.0
+sub-09,slow wave (motion-like),160,0.7485477058062191,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.008560964340349735,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.02766333299278551,0.0
+sub-09,slow wave (motion-like),40,0.08033074949974837,0.0
+sub-09,slow wave (motion-like),80,0.3961469415334912,0.0
+sub-09,slow wave (motion-like),160,0.7231293891261682,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.0,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.02061117525763962,0.0
+sub-09,slow wave (motion-like),40,0.1441730635116441,0.0
+sub-09,slow wave (motion-like),80,0.5047970203212859,0.0
+sub-09,slow wave (motion-like),160,0.7538300506843869,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.0,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.06759619539430284,0.0
+sub-09,slow wave (motion-like),40,0.32336096532749636,0.0
+sub-09,slow wave (motion-like),80,0.4210445669097303,0.0
+sub-09,slow wave (motion-like),160,0.7596373903382688,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.0,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.0,0.0
+sub-09,slow wave (motion-like),40,0.053962925942910585,0.0
+sub-09,slow wave (motion-like),80,0.527269668428802,0.0
+sub-09,slow wave (motion-like),160,0.7635552473061159,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.0,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.0,0.0
+sub-09,slow wave (motion-like),40,0.06483885934191705,0.0
+sub-09,slow wave (motion-like),80,0.4612411939873887,0.0
+sub-09,slow wave (motion-like),160,0.8212940204897894,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.0,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.0,0.0
+sub-09,slow wave (motion-like),40,0.14068442618979612,0.0
+sub-09,slow wave (motion-like),80,0.4928310855650996,0.0
+sub-09,slow wave (motion-like),160,0.9542910335420157,0.0
+sub-09,slow wave (motion-like),0,0.0,0.0
+sub-09,slow wave (motion-like),5,0.0,0.0
+sub-09,slow wave (motion-like),10,0.0,0.0
+sub-09,slow wave (motion-like),20,0.023642634699274544,0.0
+sub-09,slow wave (motion-like),40,0.020286972731812746,0.0
+sub-09,slow wave (motion-like),80,0.2989423897738725,0.0
+sub-09,slow wave (motion-like),160,0.7731550894198946,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.0,0.0
+sub-09,muscle,20,0.04422613614538568,0.0
+sub-09,muscle,40,0.42013820789112516,0.0
+sub-09,muscle,80,0.7770670155899028,0.0
+sub-09,muscle,160,1.0014705554595429,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.0,0.0
+sub-09,muscle,20,0.2076394049939872,0.0
+sub-09,muscle,40,0.5937954018836454,0.0
+sub-09,muscle,80,0.6724043119336274,0.0
+sub-09,muscle,160,0.9982613586046912,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.0,0.0
+sub-09,muscle,20,0.0348020469342593,0.0
+sub-09,muscle,40,0.5488882602688986,0.0
+sub-09,muscle,80,0.8116544956980514,0.0
+sub-09,muscle,160,1.104311645750808,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.0,0.0
+sub-09,muscle,20,0.01480572162923378,0.0
+sub-09,muscle,40,0.524953601639811,0.0
+sub-09,muscle,80,0.6884394181256831,0.0
+sub-09,muscle,160,0.9559411157804379,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.04215676420046044,0.0
+sub-09,muscle,20,0.06747920368830436,0.0
+sub-09,muscle,40,0.30240397798716245,0.0
+sub-09,muscle,80,0.7698679020329519,0.0
+sub-09,muscle,160,0.9925705184082111,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.0,0.0
+sub-09,muscle,20,0.128695754259645,0.0
+sub-09,muscle,40,0.504778115872041,0.0
+sub-09,muscle,80,0.8105838125043441,0.0
+sub-09,muscle,160,1.1458727870106273,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.016434610916963927,0.0
+sub-09,muscle,20,0.21715722751972738,0.0
+sub-09,muscle,40,0.5820517393874522,0.0
+sub-09,muscle,80,0.7549417865860119,0.0
+sub-09,muscle,160,1.1157627111958832,0.0
+sub-09,muscle,0,0.0,0.0
+sub-09,muscle,5,0.0,0.0
+sub-09,muscle,10,0.0,0.0
+sub-09,muscle,20,0.09693027605898956,0.0
+sub-09,muscle,40,0.5612536255725494,0.0
+sub-09,muscle,80,0.8341699724798692,0.0
+sub-09,muscle,160,0.8956601471534783,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.0,0.0
+sub-09,drift,10,0.0,0.0
+sub-09,drift,20,0.0,0.0
+sub-09,drift,40,0.0,0.0
+sub-09,drift,80,0.6889848766503499,0.0
+sub-09,drift,160,0.9040942986338267,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.05500541320538344,0.0
+sub-09,drift,10,0.0,0.0
+sub-09,drift,20,0.13672903938525202,0.0
+sub-09,drift,40,0.24552262877163583,0.0
+sub-09,drift,80,0.609623389479106,0.0
+sub-09,drift,160,0.8196422606747162,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.0,0.0
+sub-09,drift,10,0.0,0.0
+sub-09,drift,20,0.06575172048935116,0.0
+sub-09,drift,40,0.07827927314497467,0.0
+sub-09,drift,80,0.7380342434784234,0.0
+sub-09,drift,160,0.9050904114213115,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.0,0.0
+sub-09,drift,10,0.0,0.0
+sub-09,drift,20,0.014437211454823429,0.0
+sub-09,drift,40,0.6930500367361064,0.0
+sub-09,drift,80,0.652689327985998,0.0
+sub-09,drift,160,0.8790656026388631,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.0,0.0
+sub-09,drift,10,0.0,0.0
+sub-09,drift,20,0.025960499919719583,0.0
+sub-09,drift,40,0.0,0.0
+sub-09,drift,80,0.7235244836886768,0.0
+sub-09,drift,160,0.9430122916985589,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.0,0.0
+sub-09,drift,10,0.0,0.0
+sub-09,drift,20,0.0,0.0
+sub-09,drift,40,0.46886848729605574,0.0
+sub-09,drift,80,0.6329738284061877,0.0
+sub-09,drift,160,0.9063706960705087,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.0,0.0
+sub-09,drift,10,0.03346643900861775,0.0
+sub-09,drift,20,0.01143613318762116,0.0
+sub-09,drift,40,0.0,0.0
+sub-09,drift,80,0.7135168974237602,0.0
+sub-09,drift,160,0.9399495817832852,0.0
+sub-09,drift,0,0.0,0.0
+sub-09,drift,5,0.0,0.0
+sub-09,drift,10,0.013045611872924297,0.0
+sub-09,drift,20,0.0,0.0
+sub-09,drift,40,0.04479067699475177,0.0
+sub-09,drift,80,0.7088129006107439,0.0
+sub-09,drift,160,0.9017585775301894,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.19781368179343053,0.0
+sub-09,blink,80,0.22198978207570805,0.0
+sub-09,blink,160,0.2585024310232059,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.19853252874030788,0.0
+sub-09,blink,80,0.17199611490370517,0.0
+sub-09,blink,160,0.25400997676716436,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.21464424438831192,0.0
+sub-09,blink,80,0.25202164856155734,0.0
+sub-09,blink,160,0.3367855303257827,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.0,0.0
+sub-09,blink,80,0.2153776468804629,0.0
+sub-09,blink,160,0.2312267024880825,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.0,0.0
+sub-09,blink,80,0.2405362223107423,0.0
+sub-09,blink,160,0.28176306757547415,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.0,0.0
+sub-09,blink,80,0.0,0.0
+sub-09,blink,160,0.24789872243492964,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.024387813264453693,0.0
+sub-09,blink,80,0.20657324753469508,0.0
+sub-09,blink,160,0.23851355120176337,0.0
+sub-09,blink,0,0.0,0.0
+sub-09,blink,5,0.0,0.0
+sub-09,blink,10,0.0,0.0
+sub-09,blink,20,0.0,0.0
+sub-09,blink,40,0.17199611490370517,0.0
+sub-09,blink,80,0.05332096429282085,0.0
+sub-09,blink,160,0.26427713522093516,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.034976219432307845,0.0
+sub-10,pop,80,0.15079148698406772,0.0
+sub-10,pop,160,0.4794523796888252,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.052133543316523846,0.0
+sub-10,pop,80,0.07462230946971271,0.0
+sub-10,pop,160,0.5343569699932843,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.059011935027966915,0.0
+sub-10,pop,80,0.2330366372702164,0.0
+sub-10,pop,160,0.5660298492869018,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.0444388279143833,0.0
+sub-10,pop,80,0.16357110810942066,0.0
+sub-10,pop,160,0.5721848269024669,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.04446972662006789,0.0
+sub-10,pop,80,0.15065759716199983,0.0
+sub-10,pop,160,0.48721054784609014,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.05792380812593574,0.0
+sub-10,pop,80,0.16845763356617807,0.0
+sub-10,pop,160,0.44426126002259453,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.06016022978250703,0.0
+sub-10,pop,80,0.13764240367208866,0.0
+sub-10,pop,160,0.595002552290313,0.0
+sub-10,pop,0,0.0,0.0
+sub-10,pop,5,0.0,0.0
+sub-10,pop,10,0.0,0.0
+sub-10,pop,20,0.0,0.0
+sub-10,pop,40,0.051687590166127964,0.0
+sub-10,pop,80,0.09937250378958315,0.0
+sub-10,pop,160,0.379099863712005,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.0,0.0
+sub-10,slow wave (motion-like),20,0.018858900975138013,0.0
+sub-10,slow wave (motion-like),40,0.06379314787476977,0.0
+sub-10,slow wave (motion-like),80,0.422947745381669,0.0
+sub-10,slow wave (motion-like),160,0.7239771932096258,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.010734199707155223,0.0
+sub-10,slow wave (motion-like),20,0.030908717946081056,0.0
+sub-10,slow wave (motion-like),40,0.06689060738088906,0.0
+sub-10,slow wave (motion-like),80,0.39260302722312623,0.0
+sub-10,slow wave (motion-like),160,0.8092160234111828,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.032828819691302046,0.0
+sub-10,slow wave (motion-like),20,0.1160614684640874,0.0
+sub-10,slow wave (motion-like),40,0.08194133966816944,0.0
+sub-10,slow wave (motion-like),80,0.06428501050631381,0.0
+sub-10,slow wave (motion-like),160,0.6440936065375722,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.029734131105286173,0.0
+sub-10,slow wave (motion-like),20,0.00912226351896163,0.0
+sub-10,slow wave (motion-like),40,0.23223886499503668,0.0
+sub-10,slow wave (motion-like),80,0.15353338793823104,0.0
+sub-10,slow wave (motion-like),160,0.6699484458905322,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.0,0.0
+sub-10,slow wave (motion-like),20,0.052225896854690534,0.0
+sub-10,slow wave (motion-like),40,0.1102382882696705,0.0
+sub-10,slow wave (motion-like),80,0.07959653553043314,0.0
+sub-10,slow wave (motion-like),160,0.8338306534162666,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.011605760970350884,0.0
+sub-10,slow wave (motion-like),20,0.0,0.0
+sub-10,slow wave (motion-like),40,0.06292096197401294,0.0
+sub-10,slow wave (motion-like),80,0.13436393635493893,0.0
+sub-10,slow wave (motion-like),160,0.6642664381307812,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.0,0.0
+sub-10,slow wave (motion-like),20,0.0,0.0
+sub-10,slow wave (motion-like),40,0.15802677662613865,0.0
+sub-10,slow wave (motion-like),80,0.07783985021841149,0.0
+sub-10,slow wave (motion-like),160,0.8464469299416999,0.0
+sub-10,slow wave (motion-like),0,0.0,0.0
+sub-10,slow wave (motion-like),5,0.0,0.0
+sub-10,slow wave (motion-like),10,0.0,0.0
+sub-10,slow wave (motion-like),20,0.001748509715298558,0.0
+sub-10,slow wave (motion-like),40,0.11064885985478363,0.0
+sub-10,slow wave (motion-like),80,0.23338325656410697,0.0
+sub-10,slow wave (motion-like),160,0.686520309320618,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.033989055353682136,0.0
+sub-10,muscle,20,0.037297057478519545,0.0
+sub-10,muscle,40,0.4591071115224618,0.0
+sub-10,muscle,80,0.810952105989724,0.0
+sub-10,muscle,160,0.9171397054092119,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.0621841838375752,0.0
+sub-10,muscle,20,0.10809540293642914,0.0
+sub-10,muscle,40,0.2720491921498417,0.0
+sub-10,muscle,80,0.9873854528339824,0.0
+sub-10,muscle,160,1.2688645461610422,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.038606947756665046,0.0
+sub-10,muscle,20,0.06718758750018074,0.0
+sub-10,muscle,40,0.2525988519872698,0.0
+sub-10,muscle,80,0.7743406858701257,0.0
+sub-10,muscle,160,1.0730961572830766,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.09121526092297087,0.0
+sub-10,muscle,20,0.19511519818482023,0.0
+sub-10,muscle,40,0.17858199271169004,0.0
+sub-10,muscle,80,0.9164481286968752,0.0
+sub-10,muscle,160,1.0609380428727213,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.0,0.0
+sub-10,muscle,20,0.21312046916554178,0.0
+sub-10,muscle,40,0.34596236025459776,0.0
+sub-10,muscle,80,0.7618528354682553,0.0
+sub-10,muscle,160,1.0483516086500417,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.0,0.0
+sub-10,muscle,20,0.035606039888083245,0.0
+sub-10,muscle,40,0.2830821672600872,0.0
+sub-10,muscle,80,0.842603208497003,0.0
+sub-10,muscle,160,0.938954836784449,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.0,0.0
+sub-10,muscle,20,0.05172725752428009,0.0
+sub-10,muscle,40,0.09597664105390451,0.0
+sub-10,muscle,80,0.9183491281405629,0.0
+sub-10,muscle,160,1.1525298313892016,0.0
+sub-10,muscle,0,0.0,0.0
+sub-10,muscle,5,0.0,0.0
+sub-10,muscle,10,0.007624058660936842,0.0
+sub-10,muscle,20,0.0,0.0
+sub-10,muscle,40,0.24632706475795876,0.0
+sub-10,muscle,80,0.7956294372047497,0.0
+sub-10,muscle,160,0.9007037417048084,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.0,0.0
+sub-10,drift,20,0.07162349860736064,0.0
+sub-10,drift,40,0.0,0.0
+sub-10,drift,80,0.10244819458249518,0.0
+sub-10,drift,160,0.8579990721525468,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.035999095094700125,0.0
+sub-10,drift,20,0.0,0.0
+sub-10,drift,40,0.03435282671355112,0.0
+sub-10,drift,80,0.6804639927433416,0.0
+sub-10,drift,160,0.9539838260729222,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.0,0.0
+sub-10,drift,20,0.0,0.0
+sub-10,drift,40,0.02044258143225582,0.0
+sub-10,drift,80,0.01639361113808136,0.0
+sub-10,drift,160,0.836588733566158,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.0,0.0
+sub-10,drift,20,0.0,0.0
+sub-10,drift,40,0.0,0.0
+sub-10,drift,80,0.11474691255309198,0.0
+sub-10,drift,160,0.7833026182842142,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.0,0.0
+sub-10,drift,20,0.0,0.0
+sub-10,drift,40,0.15643838294802367,0.0
+sub-10,drift,80,0.07125635637007764,0.0
+sub-10,drift,160,0.7737842587404874,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.0,0.0
+sub-10,drift,20,0.07401956163735592,0.0
+sub-10,drift,40,0.07296518953639028,0.0
+sub-10,drift,80,0.04649430062155383,0.0
+sub-10,drift,160,0.8842118281654432,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.007684306992835904,0.0
+sub-10,drift,20,0.0,0.0
+sub-10,drift,40,0.03264661376853205,0.0
+sub-10,drift,80,0.09459463340632164,0.0
+sub-10,drift,160,0.9966832997206259,0.0
+sub-10,drift,0,0.0,0.0
+sub-10,drift,5,0.0,0.0
+sub-10,drift,10,0.0,0.0
+sub-10,drift,20,0.0,0.0
+sub-10,drift,40,0.20352030365120102,0.0
+sub-10,drift,80,0.36294564621116326,0.0
+sub-10,drift,160,0.8051272476097221,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.17199611490370517,0.0
+sub-10,blink,80,0.28334811794616616,0.0
+sub-10,blink,160,0.2070828296929241,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.18799117535044346,0.0
+sub-10,blink,80,0.22961114095209298,0.0
+sub-10,blink,160,0.3398817894103364,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.0,0.0
+sub-10,blink,80,0.17918723088125502,0.0
+sub-10,blink,160,0.22236544580451206,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.047752183487988084,0.0
+sub-10,blink,80,0.2818727862037749,0.0
+sub-10,blink,160,0.2055850018166916,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.0,0.0
+sub-10,blink,80,0.007625085671332436,0.0
+sub-10,blink,160,0.2578133543620443,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.17199611490370517,0.0
+sub-10,blink,80,0.03804208846820849,0.0
+sub-10,blink,160,0.19278753926240386,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.17945404845944757,0.0
+sub-10,blink,80,0.23553557702460712,0.0
+sub-10,blink,160,0.3726821845204582,0.0
+sub-10,blink,0,0.0,0.0
+sub-10,blink,5,0.0,0.0
+sub-10,blink,10,0.0,0.0
+sub-10,blink,20,0.0,0.0
+sub-10,blink,40,0.23120706430526963,0.0
+sub-10,blink,80,0.18131429082259612,0.0
+sub-10,blink,160,0.24324947445445028,0.0

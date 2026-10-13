@@ -1,0 +1,481 @@
+sub,ses,speed,measure,target,rho_in_expected_direction,distinct_values
+sub-01,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,-0.09473170618779181,196
+sub-01,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.05220920707183776,196
+sub-01,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.031563219584933536,196
+sub-01,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.0822384352976586,196
+sub-01,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,-0.12102985656574784,200
+sub-01,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.0568301754624148,200
+sub-01,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.08211342780271716,198
+sub-01,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.09315868591800325,198
+sub-01,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,0.09342905886266943,297
+sub-01,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,0.015975288614317937,297
+sub-01,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,-0.060750910732545356,34
+sub-01,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.5649022766919632,34
+sub-01,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,0.03302548539994645,298
+sub-01,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,-0.26543700828610045,298
+sub-01,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,0.04884098712207913,299
+sub-01,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,-0.22842920476894185,299
+sub-01,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,-0.03425015833509261,299
+sub-01,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,-0.3374424160268447,299
+sub-01,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,0.05657307303414482,298
+sub-01,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,-0.28603917821309127,298
+sub-01,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,0.04133823709152324,300
+sub-01,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.28864187379859774,300
+sub-01,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,-0.04393782153135035,64
+sub-01,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.8937597084412048,64
+sub-01,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.031212346803853375,300
+sub-01,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.13333659262880698,300
+sub-01,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,0.12829609217880197,300
+sub-01,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.2192526583628707,300
+sub-01,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,0.01870420782453138,299
+sub-01,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.18583939821553572,299
+sub-01,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,0.1309063434038156,298
+sub-01,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.2562930699229991,298
+sub-01,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,0.13318414649051655,300
+sub-01,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.27780397559972886,300
+sub-01,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.08676007511194568,64
+sub-01,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.8322088023200257,64
+sub-01,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,0.01835264836275959,300
+sub-01,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,0.29467571861909575,300
+sub-01,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,-0.03372481916465738,300
+sub-01,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,0.2611869020766897,300
+sub-01,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,-0.02286292069911888,299
+sub-01,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,0.4861738463760708,299
+sub-01,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,-0.027297192191024344,298
+sub-01,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,0.4279811997911088,298
+sub-01,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,-0.03642040467116301,299
+sub-01,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,0.1370348559428438,299
+sub-01,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,-0.10449982777586417,106
+sub-01,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.8892685474283046,106
+sub-02,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,0.16503011397982173,123
+sub-02,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.19404792326814982,123
+sub-02,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,0.2374761643676209,166
+sub-02,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.268977696408723,166
+sub-02,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,0.15562683941538774,199
+sub-02,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.193883636176422,199
+sub-02,ses-02,standing (0 m/s),"severity, exact span",p_correct,0.24530899362632008,192
+sub-02,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.2815589627684307,192
+sub-02,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,0.0175595303902856,296
+sub-02,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,-0.056019739777080066,296
+sub-02,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,0.312319025766953,64
+sub-02,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.6437253747263859,64
+sub-02,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,0.03709602369818971,227
+sub-02,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,0.07544085306328575,227
+sub-02,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,0.039304983937453866,272
+sub-02,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,0.013258489806683494,272
+sub-02,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,0.06058997255414962,263
+sub-02,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,0.1594049673317011,263
+sub-02,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,0.01895475501620651,283
+sub-02,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,0.12962979435320218,283
+sub-02,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,0.0019435771508572316,300
+sub-02,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.2955032833698152,300
+sub-02,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,0.0007880087556528405,93
+sub-02,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.8559228435871509,93
+sub-02,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.004892501523629641,294
+sub-02,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.2086164338584272,294
+sub-02,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,-0.05031700352226136,300
+sub-02,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.28491161012900146,300
+sub-02,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,0.018064204727654024,297
+sub-02,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.22928859860412315,297
+sub-02,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,-0.006937410415671285,299
+sub-02,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.33071078567539636,299
+sub-02,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,-0.02720785786508739,299
+sub-02,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.38369048544983825,299
+sub-02,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.060145557172857474,88
+sub-02,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.8347043856042844,88
+sub-02,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,-0.010372783072343432,299
+sub-02,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,-0.3655007683975142,299
+sub-02,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,-0.03150212780142001,300
+sub-02,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,-0.3973506372293026,300
+sub-02,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,0.002097134645622147,298
+sub-02,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,-0.2529386163111402,298
+sub-02,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,-0.01716996855520617,298
+sub-02,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,-0.2949228324759164,298
+sub-02,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,-0.014231269236324846,300
+sub-02,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,-0.35714130157001744,300
+sub-02,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,0.011769464105156722,54
+sub-02,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.5043056033955933,54
+sub-03,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,-0.05506009210953564,111
+sub-03,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,-0.0030682627275091974,111
+sub-03,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.04897833973454051,109
+sub-03,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.10455392246679664,109
+sub-03,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,-0.052012931956677146,119
+sub-03,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,-0.006887919360380267,119
+sub-03,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.054105878114004975,108
+sub-03,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.11816958063587914,108
+sub-03,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,0.05453483422425107,296
+sub-03,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,-0.038429097926543636,296
+sub-03,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,0.006481405348948322,50
+sub-03,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.690746341626018,50
+sub-03,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,0.0014067611895943468,184
+sub-03,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,0.027147798593257794,184
+sub-03,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,0.08523655292550658,215
+sub-03,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,-0.1370518948041629,215
+sub-03,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,-0.10238862343030206,259
+sub-03,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,-0.22669144344372896,259
+sub-03,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,-0.008048567420400035,286
+sub-03,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,-0.24997383233725193,286
+sub-03,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,0.08091201013344593,299
+sub-03,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.308989655440616,299
+sub-03,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,0.11921465794064379,56
+sub-03,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.7327499194435493,56
+sub-03,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.03478353237835398,290
+sub-03,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.14664599826827457,290
+sub-03,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,0.05168412982366471,300
+sub-03,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.2890858787319859,300
+sub-03,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,0.039375587993252054,287
+sub-03,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.13850901083142267,287
+sub-03,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,0.04181646462738475,296
+sub-03,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.3302392248802764,296
+sub-03,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,0.06195846620518006,299
+sub-03,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.41536017066856296,299
+sub-03,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.058608651207235636,55
+sub-03,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.8153010589006544,55
+sub-03,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,0.0515914678598063,299
+sub-03,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,0.05352171174365434,299
+sub-03,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,0.04225780286447627,300
+sub-03,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,0.0024644718274647493,300
+sub-03,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,0.05870109667885198,297
+sub-03,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,0.060213557928421424,297
+sub-03,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,0.06761497349970555,300
+sub-03,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,0.007656085067611861,300
+sub-03,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,0.07710752341692685,299
+sub-03,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,-0.07699285547617195,299
+sub-03,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,0.03288880987566528,63
+sub-03,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.6377684196491071,63
+sub-04,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,0.06378389323712395,196
+sub-04,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.2715804916333443,196
+sub-04,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,0.026065074133129557,191
+sub-04,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.28900170104280015,191
+sub-04,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,0.07008921402950391,202
+sub-04,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.2639359430850069,202
+sub-04,ses-02,standing (0 m/s),"severity, exact span",p_correct,0.006718089260519493,199
+sub-04,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.29076377656145663,199
+sub-04,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,-0.04746763852931699,299
+sub-04,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,0.09039655996177734,299
+sub-04,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,0.03493016589073211,48
+sub-04,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.7194088823209146,48
+sub-04,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,-0.015923927115044315,270
+sub-04,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,-0.012650961856721597,270
+sub-04,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,-0.009600455254600961,278
+sub-04,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,-0.00023514403322918366,278
+sub-04,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,-0.01222309803989759,276
+sub-04,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,0.03757842078698767,276
+sub-04,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,0.012684414398866167,280
+sub-04,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,0.0447243846073843,280
+sub-04,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,-0.020705563395148834,300
+sub-04,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.05939799331103679,300
+sub-04,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,0.04704452271691907,46
+sub-04,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.7570866342959366,46
+sub-04,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.030580363566553876,293
+sub-04,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.3482559181537989,293
+sub-04,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,0.030783453149479438,300
+sub-04,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.405531172568584,300
+sub-04,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,0.01217725453211164,290
+sub-04,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.24092728203248637,290
+sub-04,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,-0.03245191613240147,299
+sub-04,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.38366292958810655,299
+sub-04,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,0.006656962855142834,300
+sub-04,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.4697616640184891,300
+sub-04,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.030208780097556634,56
+sub-04,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.8651393904376714,56
+sub-04,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,0.011665907398971099,300
+sub-04,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,0.5682800920010223,300
+sub-04,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,-0.034215935732619246,300
+sub-04,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,0.5228938099312214,300
+sub-04,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,0.008957432860365114,299
+sub-04,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,0.7170635229280324,299
+sub-04,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,-0.021669574106378958,300
+sub-04,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,0.7097198857765085,300
+sub-04,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,-0.016557072856365068,300
+sub-04,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,0.5354459493994378,300
+sub-04,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,0.0126379181990911,161
+sub-04,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.937057522861365,161
+sub-05,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,-0.02901287333026682,163
+sub-05,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.22999579007467144,163
+sub-05,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.19197034796951784,187
+sub-05,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.45786655657024833,187
+sub-05,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,-0.09157167976632055,212
+sub-05,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.2458449585194865,212
+sub-05,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.21059504650840163,224
+sub-05,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.468089592151612,224
+sub-05,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,0.12873366690004046,296
+sub-05,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,-0.15982712694887008,296
+sub-05,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,-0.27531283680929786,39
+sub-05,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.705053167257414,39
+sub-05,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,0.06553052045701123,297
+sub-05,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,-0.1294328002384059,297
+sub-05,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,0.19895243280480893,300
+sub-05,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,-0.10356470627451415,300
+sub-05,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,-0.04286937474180368,297
+sub-05,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,-0.058599997466639395,297
+sub-05,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,0.13289258769541884,300
+sub-05,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,-0.031174568606317843,300
+sub-05,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,0.21856331737019297,299
+sub-05,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.21728730319225767,299
+sub-05,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,-0.42301092234358156,51
+sub-05,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.27252391693241035,51
+sub-05,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.02737719307992311,300
+sub-05,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.36820009111212343,300
+sub-05,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,0.12291514350159446,300
+sub-05,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.342441582684252,300
+sub-05,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,-0.011189457660640672,298
+sub-05,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.33635884843164926,298
+sub-05,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,0.0687376526405849,299
+sub-05,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.3540394893276592,299
+sub-05,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,0.15627773641929352,299
+sub-05,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.35299858887320973,299
+sub-05,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,-0.2695172168579651,71
+sub-05,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.6082032022578029,71
+sub-05,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,-0.02285315296976991,296
+sub-05,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,-0.5112745747284696,296
+sub-05,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,-0.0021231347014966833,300
+sub-05,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,-0.5408886765408504,300
+sub-05,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,-0.03163213979004602,297
+sub-05,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,-0.5163190200954809,297
+sub-05,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,0.010422338025978065,300
+sub-05,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,-0.5724050267225191,300
+sub-05,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,0.03966666296292181,300
+sub-05,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,-0.5483838709318992,300
+sub-05,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,-0.1409046767186302,106
+sub-05,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.7546728296981077,106
+sub-06,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,-0.13479560204522834,45
+sub-06,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.01828461931618519,45
+sub-06,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.15161731861900324,77
+sub-06,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.06933043861690434,77
+sub-06,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,-0.1365931127302587,186
+sub-06,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.027079661980333045,186
+sub-06,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.16544022867426234,195
+sub-06,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.05848765140683417,195
+sub-06,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,0.038694233509865165,298
+sub-06,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,-0.0411142391709065,298
+sub-06,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,-0.05508575377824703,45
+sub-06,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.38636518183535373,45
+sub-06,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,-0.06503149337530546,253
+sub-06,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,0.02882031495385413,253
+sub-06,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,-0.09578325262081408,280
+sub-06,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,0.07831851158181526,280
+sub-06,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,-0.07826642036705826,277
+sub-06,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,0.1346066836450032,277
+sub-06,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,-0.09477532793439608,294
+sub-06,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,0.08851387237635974,294
+sub-06,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,-0.03952068329686678,300
+sub-06,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,0.0008062311803464483,300
+sub-06,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,0.14903240537808574,40
+sub-06,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.27359370659674,40
+sub-06,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.0744326461586611,295
+sub-06,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,0.27956859496698444,295
+sub-06,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,0.056683296481072,300
+sub-06,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,0.19655640618229087,300
+sub-06,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,0.10714702782645229,293
+sub-06,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,0.30409821447921587,293
+sub-06,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,0.06551317236858187,298
+sub-06,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,0.252236580406449,298
+sub-06,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,0.06514605717841308,300
+sub-06,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.023291814353492816,300
+sub-06,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.2907672307470082,45
+sub-06,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.5173395259947332,45
+sub-06,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,-0.058692887408280964,298
+sub-06,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,-0.0693283412767584,298
+sub-06,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,-0.08379604217824642,300
+sub-06,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,-0.1610102334470383,300
+sub-06,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,-0.05240991566572962,299
+sub-06,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,-0.08224135823731374,299
+sub-06,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,-0.053085923176924184,300
+sub-06,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,-0.1815482394248825,300
+sub-06,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,-0.10126423626929187,300
+sub-06,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,-0.13822331359237325,300
+sub-06,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,0.2050005000055556,116
+sub-06,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.15970088556539516,116
+sub-07,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,-0.06294541179634726,160
+sub-07,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.14626696859179916,160
+sub-07,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.16625199497501672,166
+sub-07,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.2984961204516602,166
+sub-07,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,-0.08103583672606156,218
+sub-07,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.16200430127169832,218
+sub-07,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.1596157124535885,213
+sub-07,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.30428338045368925,213
+sub-07,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,-0.05349259436215957,299
+sub-07,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,0.10909632329248103,299
+sub-07,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,-0.005856065067389637,50
+sub-07,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.6742710474560828,50
+sub-07,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,-0.05866688711361096,298
+sub-07,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,-0.06596319202728905,298
+sub-07,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,-0.013111480473280947,299
+sub-07,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,-0.255927983191813,299
+sub-07,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,-0.06601273347481638,299
+sub-07,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,-0.016514850165001833,299
+sub-07,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,0.03574995674951485,296
+sub-07,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,-0.11986956742514629,296
+sub-07,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,-0.042509805664507384,300
+sub-07,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.3986270958566206,300
+sub-07,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,-0.06601051122790252,53
+sub-07,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.6499934443716041,53
+sub-07,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.0068871906964265055,296
+sub-07,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.45375391004522764,296
+sub-07,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,-0.0699647773864154,300
+sub-07,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.5602688918765765,300
+sub-07,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,-0.022607369839900533,294
+sub-07,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.49344875835803975,294
+sub-07,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,-0.05475483060922899,299
+sub-07,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.5965515172390803,299
+sub-07,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,-0.0868102978921988,300
+sub-07,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.565271169679663,300
+sub-07,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.08871254125045833,102
+sub-07,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.8884512050133889,102
+sub-07,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,-0.13042814485231155,298
+sub-07,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,0.1678019017548907,298
+sub-07,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,-0.18274247491638793,300
+sub-07,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,0.19252125023611372,300
+sub-07,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,-0.1374584467512888,298
+sub-07,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,0.19616022314920054,298
+sub-07,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,-0.17716685740952676,300
+sub-07,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,0.1836482627584751,300
+sub-07,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,-0.2051738352648363,300
+sub-07,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,0.21241613795708839,300
+sub-07,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,-0.06835809286769852,115
+sub-07,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.8292638807097856,115
+sub-08,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,-0.011522750681675938,162
+sub-08,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.49627479927549173,162
+sub-08,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.07314251998409901,173
+sub-08,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.5565684094013541,173
+sub-08,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,-0.028601397394319536,193
+sub-08,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.488633871818524,193
+sub-08,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.08024514281028175,188
+sub-08,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.549771619106518,188
+sub-08,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,0.025891398793319923,300
+sub-08,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,0.3415482394248825,300
+sub-08,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,-0.04458493983266481,55
+sub-08,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.7839473771930799,55
+sub-08,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,-0.043647151635018165,300
+sub-08,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,-0.009847220524672497,300
+sub-08,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,-0.03785019833553706,300
+sub-08,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,-0.03194346603851154,300
+sub-08,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,0.007280525339170434,298
+sub-08,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,0.05773041922688029,298
+sub-08,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,-0.03507638973766375,297
+sub-08,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,0.0012235691507683417,297
+sub-08,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,-0.030851453905043392,300
+sub-08,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.27243369370770787,300
+sub-08,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,-0.024210491227680306,51
+sub-08,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.6796426626962522,51
+sub-08,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,-0.09008633429260324,300
+sub-08,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.15769108545650506,300
+sub-08,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,-0.17919710219002433,300
+sub-08,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.29868776319736884,300
+sub-08,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,-0.08082889809886777,298
+sub-08,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.143050922788031,298
+sub-08,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,-0.24472449693885487,299
+sub-08,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.2514539050433893,299
+sub-08,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,-0.046073845264947386,300
+sub-08,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.2815973510816787,300
+sub-08,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.01774241936021511,48
+sub-08,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.5894136601517795,48
+sub-08,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,0.0623598039978222,299
+sub-08,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,0.2589788775430838,299
+sub-08,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,0.11578839764886276,300
+sub-08,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,0.3807162301803353,300
+sub-08,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,0.06136112623473594,299
+sub-08,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,0.2809871220791342,299
+sub-08,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,0.10272780808675651,299
+sub-08,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,0.36281380904232263,299
+sub-08,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,0.08859209546772741,299
+sub-08,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,0.43579550883898704,299
+sub-08,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,-0.068017644640496,49
+sub-08,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.6721296903298924,49
+sub-09,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,-0.08330896559221197,89
+sub-09,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.3249989009105808,89
+sub-09,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.03924314474893821,108
+sub-09,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.38003895103247304,108
+sub-09,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,-0.0762023810716813,130
+sub-09,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.34573516216977757,130
+sub-09,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.030266441649596822,135
+sub-09,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.3700725387236665,135
+sub-09,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,-0.04126223624706941,299
+sub-09,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,0.09373081923132479,299
+sub-09,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,-0.0020924676940854894,34
+sub-09,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.650659229546995,34
+sub-09,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,0.052253530159123644,290
+sub-09,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,0.11322124137997205,290
+sub-09,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,0.04026458607365838,292
+sub-09,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,0.11060805440678141,292
+sub-09,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,0.06765669490206636,292
+sub-09,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,0.1983533554571888,292
+sub-09,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,0.04914021621859627,293
+sub-09,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,0.21785448448866232,293
+sub-09,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,-0.0334479271991911,299
+sub-09,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.16476227513639038,299
+sub-09,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,0.027004744497161077,36
+sub-09,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.5506047844976055,36
+sub-09,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,0.025056728420700496,297
+sub-09,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.15252817309707664,297
+sub-09,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,-0.030613673485260944,300
+sub-09,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.15856265069611886,300
+sub-09,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,0.013552153591074367,298
+sub-09,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.03812420985215704,298
+sub-09,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,-0.02506161179568662,299
+sub-09,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.09340859342881587,299
+sub-09,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,-0.06363537372637473,300
+sub-09,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.26644918276869745,300
+sub-09,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.03359237324859165,42
+sub-09,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.6675580839787109,42
+sub-09,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,0.003152035022611362,300
+sub-09,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,0.31914887943199366,300
+sub-09,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,0.05541661574017488,299
+sub-09,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,0.27692174357492855,299
+sub-09,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,-0.02397937754863943,299
+sub-09,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,0.33589573217480195,299
+sub-09,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,0.036254625051389454,299
+sub-09,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,0.3032149246102734,299
+sub-09,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,0.03498794431049233,300
+sub-09,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,0.3078074200824453,300
+sub-09,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,0.007216969077434193,49
+sub-09,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.08963655151723908,49
+sub-10,ses-02,standing (0 m/s),"pass/fail, 2-s grid",p_correct,0.01860669302890721,107
+sub-10,ses-02,standing (0 m/s),"pass/fail, 2-s grid",loo_dist,0.08471585909418625,107
+sub-10,ses-02,standing (0 m/s),"pass/fail, exact span",p_correct,-0.0012744592623350744,116
+sub-10,ses-02,standing (0 m/s),"pass/fail, exact span",loo_dist,0.16690264003711622,116
+sub-10,ses-02,standing (0 m/s),"severity, 2-s grid",p_correct,0.0019916333736724958,127
+sub-10,ses-02,standing (0 m/s),"severity, 2-s grid",loo_dist,0.0757004039455658,127
+sub-10,ses-02,standing (0 m/s),"severity, exact span",p_correct,-0.0036780754929875937,126
+sub-10,ses-02,standing (0 m/s),"severity, exact span",loo_dist,0.17419745999733502,126
+sub-10,ses-02,standing (0 m/s),"motion share only, exact span",p_correct,0.011155235058167312,298
+sub-10,ses-02,standing (0 m/s),"motion share only, exact span",loo_dist,-0.007378748652762808,298
+sub-10,ses-02,standing (0 m/s),baseline: peak-to-peak,p_correct,0.08385782064245156,36
+sub-10,ses-02,standing (0 m/s),baseline: peak-to-peak,loo_dist,0.7657365081834241,36
+sub-10,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",p_correct,-0.07799620862411948,299
+sub-10,ses-03,slow walk (0.8 m/s),"pass/fail, 2-s grid",loo_dist,0.012791032432697377,299
+sub-10,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",p_correct,-0.04632407026744741,300
+sub-10,ses-03,slow walk (0.8 m/s),"pass/fail, exact span",loo_dist,-0.02233180368670763,300
+sub-10,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",p_correct,-0.06146802314114896,299
+sub-10,ses-03,slow walk (0.8 m/s),"severity, 2-s grid",loo_dist,-0.016986635072238136,299
+sub-10,ses-03,slow walk (0.8 m/s),"severity, exact span",p_correct,-0.083139145990511,297
+sub-10,ses-03,slow walk (0.8 m/s),"severity, exact span",loo_dist,-0.008749874998611096,297
+sub-10,ses-03,slow walk (0.8 m/s),"motion share only, exact span",p_correct,-0.03792886587628752,300
+sub-10,ses-03,slow walk (0.8 m/s),"motion share only, exact span",loo_dist,-0.08613295703285592,300
+sub-10,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,p_correct,0.13286636518183534,52
+sub-10,ses-03,slow walk (0.8 m/s),baseline: peak-to-peak,loo_dist,0.6649749441660463,52
+sub-10,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",p_correct,-0.05125612506805631,300
+sub-10,ses-04,fast walk (1.6 m/s),"pass/fail, 2-s grid",loo_dist,-0.21409437882643137,300
+sub-10,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",p_correct,0.04153023922488027,300
+sub-10,ses-04,fast walk (1.6 m/s),"pass/fail, exact span",loo_dist,-0.36716141290458776,300
+sub-10,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",p_correct,-0.019140212669029655,299
+sub-10,ses-04,fast walk (1.6 m/s),"severity, 2-s grid",loo_dist,-0.19519727996977745,299
+sub-10,ses-04,fast walk (1.6 m/s),"severity, exact span",p_correct,0.03925243613817931,299
+sub-10,ses-04,fast walk (1.6 m/s),"severity, exact span",loo_dist,-0.27563061811797906,299
+sub-10,ses-04,fast walk (1.6 m/s),"motion share only, exact span",p_correct,0.01252680585339837,300
+sub-10,ses-04,fast walk (1.6 m/s),"motion share only, exact span",loo_dist,-0.4546797186635407,300
+sub-10,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,p_correct,0.10463760708452315,96
+sub-10,ses-04,fast walk (1.6 m/s),baseline: peak-to-peak,loo_dist,0.5936341514905721,96
+sub-10,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",p_correct,0.02931322110539547,298
+sub-10,ses-05,light jog (2.0 m/s),"pass/fail, 2-s grid",loo_dist,0.41483847928055323,298
+sub-10,ses-05,light jog (2.0 m/s),"pass/fail, exact span",p_correct,0.06090245447171635,300
+sub-10,ses-05,light jog (2.0 m/s),"pass/fail, exact span",loo_dist,0.3520523561372904,300
+sub-10,ses-05,light jog (2.0 m/s),"severity, 2-s grid",p_correct,0.03380615340170447,300
+sub-10,ses-05,light jog (2.0 m/s),"severity, 2-s grid",loo_dist,0.435628840320448,300
+sub-10,ses-05,light jog (2.0 m/s),"severity, exact span",p_correct,0.05704596717741308,297
+sub-10,ses-05,light jog (2.0 m/s),"severity, exact span",loo_dist,0.37771930799231096,297
+sub-10,ses-05,light jog (2.0 m/s),"motion share only, exact span",p_correct,0.03543283814264603,300
+sub-10,ses-05,light jog (2.0 m/s),"motion share only, exact span",loo_dist,0.33757975088612097,300
+sub-10,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,p_correct,0.10936343737152635,77
+sub-10,ses-05,light jog (2.0 m/s),baseline: peak-to-peak,loo_dist,0.5604115601284458,77

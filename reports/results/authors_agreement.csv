@@ -1,0 +1,4 @@
+group,both,only_ours,only_authors
+tuning (sub-01..03),7,21,17
+new (sub-04..10),60,668,3
+all 10,67,689,20

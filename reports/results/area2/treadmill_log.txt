@@ -1,0 +1,101 @@
+sub-01 ses-02 gated sensors  0, ICA removed 0
+sub-01 ses-03 gated sensors  1, ICA removed 1
+<venv>/site-packages/sklearn/decomposition/_fastica.py:132: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+sub-01 ses-04 gated sensors  3, ICA removed 1
+sub-01 ses-05 gated sensors 10, ICA removed 1
+sub-02 ses-02 gated sensors  0, ICA removed 0
+sub-02 ses-03 gated sensors  0, ICA removed 0
+sub-02 ses-04 gated sensors  2, ICA removed 1
+sub-02 ses-05 gated sensors  6, ICA removed 1
+sub-03 ses-02 gated sensors  0, ICA removed 0
+sub-03 ses-03 gated sensors  1, ICA removed 1
+sub-03 ses-04 gated sensors  1, ICA removed 2
+sub-03 ses-05 gated sensors 19, ICA removed 3
+sub-04 ses-02 gated sensors  0, ICA removed 0
+sub-04 ses-03 gated sensors  0, ICA removed 0
+sub-04 ses-04 gated sensors  0, ICA removed 1
+sub-04 ses-05 gated sensors  7, ICA removed 3
+sub-05 ses-02 gated sensors  0, ICA removed 0
+sub-05 ses-03 gated sensors  3, ICA removed 3
+sub-05 ses-04 gated sensors  5, ICA removed 3
+sub-05 ses-05 gated sensors 11, ICA removed 3
+sub-06 ses-02 gated sensors  0, ICA removed 0
+sub-06 ses-03 gated sensors  0, ICA removed 0
+sub-06 ses-04 gated sensors  1, ICA removed 1
+sub-06 ses-05 gated sensors 14, ICA removed 6
+sub-07 ses-02 gated sensors  0, ICA removed 0
+sub-07 ses-03 gated sensors  0, ICA removed 0
+sub-07 ses-04 gated sensors  0, ICA removed 0
+sub-07 ses-05 gated sensors  9, ICA removed 1
+sub-08 ses-02 gated sensors  0, ICA removed 0
+sub-08 ses-03 gated sensors  1, ICA removed 1
+sub-08 ses-04 gated sensors  2, ICA removed 1
+sub-08 ses-05 gated sensors  8, ICA removed 0
+sub-09 ses-02 gated sensors  0, ICA removed 0
+sub-09 ses-03 gated sensors  0, ICA removed 1
+sub-09 ses-04 gated sensors  3, ICA removed 2
+sub-09 ses-05 gated sensors 12, ICA removed 3
+sub-10 ses-02 gated sensors  0, ICA removed 0
+sub-10 ses-03 gated sensors  1, ICA removed 1
+sub-10 ses-04 gated sensors  0, ICA removed 1
+sub-10 ses-05 gated sensors  6, ICA removed 2
+sub-16 ses-02 gated sensors  0, ICA removed 0
+sub-16 ses-03 gated sensors  0, ICA removed 1
+sub-16 ses-04 gated sensors  5, ICA removed 1
+sub-16 ses-05 gated sensors 12, ICA removed 1
+sub-17 ses-02 gated sensors  0, ICA removed 0
+sub-17 ses-03 gated sensors  1, ICA removed 2
+<venv>/site-packages/sklearn/decomposition/_fastica.py:132: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+sub-17 ses-04 gated sensors  3, ICA removed 2
+sub-17 ses-05 gated sensors  1, ICA removed 0
+sub-18 ses-02 gated sensors  0, ICA removed 0
+sub-18 ses-03 gated sensors  1, ICA removed 0
+<venv>/site-packages/sklearn/decomposition/_fastica.py:132: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+sub-18 ses-04 gated sensors  1, ICA removed 1
+sub-19 ses-02 gated sensors  0, ICA removed 0
+sub-19 ses-03 gated sensors  0, ICA removed 1
+sub-19 ses-04 gated sensors  1, ICA removed 1
+sub-20 ses-02 gated sensors  0, ICA removed 0
+<venv>/site-packages/sklearn/decomposition/_fastica.py:132: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+sub-20 ses-03 gated sensors  4, ICA removed 4
+sub-20 ses-04 gated sensors  4, ICA removed 1
+
+MEAN by speed and method
+method                 raw  steps+R always  steps+R gated    ASR  ICA (head-IMU)
+speed                                                                           
+standing (0 m/s)     0.938           0.934          0.938  0.935           0.938
+slow walk (0.8 m/s)  0.892           0.879          0.891  0.882           0.892
+fast walk (1.6 m/s)  0.844           0.836          0.841  0.833           0.844
+light jog (2.0 m/s)  0.784           0.806          0.787  0.756           0.783
+method                 raw  steps+R always  steps+R gated    ASR  ICA (head-IMU)
+speed                                                                           
+standing (0 m/s)     0.779           0.745          0.779  0.722           0.779
+slow walk (0.8 m/s)  0.632           0.603          0.632  0.594           0.636
+fast walk (1.6 m/s)  0.340           0.345          0.346  0.339           0.331
+light jog (2.0 m/s)  0.185           0.241          0.231  0.198           0.228
+
+PAIRED vs raw (decoding AUC): mean change, better in k of n, Wilcoxon p
+              speed         method  mean_change   better  same     p
+   standing (0 m/s) steps+R always       -0.004  4 of 15     1 0.124
+   standing (0 m/s)  steps+R gated        0.000  0 of 15    15   NaN
+   standing (0 m/s)            ASR       -0.003  5 of 15     0 0.277
+   standing (0 m/s) ICA (head-IMU)        0.000  0 of 15    15   NaN
+slow walk (0.8 m/s) steps+R always       -0.013  3 of 15     0 0.007
+slow walk (0.8 m/s)  steps+R gated       -0.001  3 of 15     7 0.208
+slow walk (0.8 m/s)            ASR       -0.010  4 of 15     0 0.035
+slow walk (0.8 m/s) ICA (head-IMU)       -0.000  4 of 15     5 0.959
+fast walk (1.6 m/s) steps+R always       -0.008  7 of 15     0 0.277
+fast walk (1.6 m/s)  steps+R gated       -0.003  4 of 15     3 0.158
+fast walk (1.6 m/s)            ASR       -0.011  4 of 15     0 0.078
+fast walk (1.6 m/s) ICA (head-IMU)       -0.000  7 of 15     1 1.000
+light jog (2.0 m/s) steps+R always        0.022 10 of 12     0 0.027
+light jog (2.0 m/s)  steps+R gated        0.003  7 of 12     0 0.519
+light jog (2.0 m/s)            ASR       -0.028  4 of 12     0 0.151
+light jog (2.0 m/s) ICA (head-IMU)       -0.001  5 of 12     2 1.000
+
+sensors gated (median by speed): {'standing (0 m/s)': 0.0, 'slow walk (0.8 m/s)': 1.0, 'fast walk (1.6 m/s)': 2.0, 'light jog (2.0 m/s)': 9.5}
+ICA components removed (median by speed): {'standing (0 m/s)': 0.0, 'slow walk (0.8 m/s)': 1.0, 'fast walk (1.6 m/s)': 1.0, 'light jog (2.0 m/s)': 1.5}

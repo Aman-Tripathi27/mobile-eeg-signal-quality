@@ -1,0 +1,62 @@
+sub-16 ses-02 unusable 9.2%  AUC 0.967
+sub-16 ses-03 unusable 22.1%  AUC 0.980
+sub-16 ses-04 unusable 43.1%  AUC 0.942
+sub-16 ses-05 unusable 52.7%  AUC 0.805
+sub-17 ses-02 unusable 6.4%  AUC 0.990
+sub-17 ses-03 unusable 17.4%  AUC 0.937
+sub-17 ses-04 unusable 32.0%  AUC 0.826
+sub-17 ses-05 unusable 48.9%  AUC 0.828
+sub-18 ses-02 unusable 10.5%  AUC 0.923
+sub-18 ses-03 unusable 18.0%  AUC 0.917
+sub-18 ses-04 unusable 26.0%  AUC 0.841
+sub-18 ses-05 not in the dataset (skipped)
+sub-19 ses-02 unusable 7.6%  AUC 0.840
+sub-19 ses-03 unusable 15.9%  AUC 0.843
+sub-19 ses-04 unusable 20.4%  AUC 0.871
+sub-19 ses-05 not in the dataset (skipped)
+sub-20 ses-02 unusable 20.2%  AUC 0.932
+sub-20 ses-03 unusable 41.9%  AUC 0.843
+sub-20 ses-04 unusable 31.1%  AUC 0.877
+sub-20 ses-05 not in the dataset (skipped)
+
+SCORES PER RECORDING
+   sub               speed  unusable_pct  mean_score   auc  room_warning hum_flagged_sensors                                       top_reasons
+sub-16    standing (0 m/s)         9.230       0.924 0.967         False                             blink 53%, pop_ratio 16%, amplitude_z 14%
+sub-16 slow walk (0.8 m/s)        22.138       0.836 0.980         False                               motion_r2 42%, blink 29%, pop_ratio 23%
+sub-16 fast walk (1.6 m/s)        43.127       0.668 0.942         False                               motion_r2 61%, blink 19%, pop_ratio 14%
+sub-16 light jog (2.0 m/s)        52.665       0.557 0.805         False                                motion_r2 70%, pop_ratio 10%, blink 9%
+sub-17    standing (0 m/s)         6.351       0.951 0.990          True                         blink 72%, amplitude_z 15%, muscle_edge_z 10%
+sub-17 slow walk (0.8 m/s)        17.380       0.867 0.937          True                          motion_r2 51%, blink 31%, neighbour_corr 16%
+sub-17 fast walk (1.6 m/s)        32.036       0.747 0.826          True                           motion_r2 75%, blink 16%, neighbour_corr 7%
+sub-17 light jog (2.0 m/s)        48.910       0.603 0.828          True                           motion_r2 70%, blink 22%, neighbour_corr 6%
+sub-18    standing (0 m/s)        10.489       0.914 0.923          True                             blink 37%, pop_ratio 31%, amplitude_z 16%
+sub-18 slow walk (0.8 m/s)        18.022       0.864 0.917          True                          blink 27%, motion_r2 26%, neighbour_corr 23%
+sub-18 fast walk (1.6 m/s)        25.978       0.801 0.841          True                          motion_r2 71%, blink 13%, neighbour_corr 10%
+sub-19    standing (0 m/s)         7.591       0.939 0.840          True                              blink 59%, amplitude_z 26%, pop_ratio 7%
+sub-19 slow walk (0.8 m/s)        15.928       0.877 0.843          True                          blink 37%, neighbour_corr 25%, motion_r2 21%
+sub-19 fast walk (1.6 m/s)        20.441       0.841 0.871          True                          motion_r2 44%, blink 30%, neighbour_corr 12%
+sub-20    standing (0 m/s)        20.248       0.843 0.932          True                 Fp1        blink 89%, motion_r2 3%, neighbour_corr 3%
+sub-20 slow walk (0.8 m/s)        41.935       0.668 0.843          True                 Fp1       motion_r2 66%, blink 27%, neighbour_corr 4%
+sub-20 fast walk (1.6 m/s)        31.076       0.762 0.878          True                 Fp1 motion_r2 78%, neighbour_corr 10%, amplitude_z 9%
+
+WORST SENSORS (most often unusable, over all 20 recordings)
+sensor
+Fp1    71.0
+Fp2    69.7
+AFz    58.9
+F7     37.0
+CP2    33.4
+FC1    31.2
+
+TEST 1 - does the score track decoding across speeds? (per person, Spearman)
+{'sub-16': np.float64(0.8), 'sub-17': np.float64(0.8), 'sub-18': np.float64(1.0), 'sub-19': np.float64(-1.0), 'sub-20': np.float64(1.0)} | positive in 4 of 5
+
+TEST 2 - scalp-only blinks vs eye sensors (median % found / % real)
+                     blinks_found_pct  blinks_real_pct  key_blinks_per_min
+speed                                                                     
+standing (0 m/s)                 90.6             89.2                23.6
+slow walk (0.8 m/s)              97.8             89.7                18.1
+fast walk (1.6 m/s)              97.9             84.9                18.6
+light jog (2.0 m/s)              81.2             87.6                28.6
+
+unusable % by speed (mean): {'standing (0 m/s)': 10.8, 'slow walk (0.8 m/s)': 23.1, 'fast walk (1.6 m/s)': 30.5, 'light jog (2.0 m/s)': 50.8}

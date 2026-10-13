@@ -1,0 +1,7 @@
+# Datasets are public but large; download them with the tools in tools/.
+data/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
